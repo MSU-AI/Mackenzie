@@ -33,10 +33,10 @@ def create_dict(filename):
             for row in reader:
                 # Handle specific hardware case
                 if i == 4: 
-                    temp = {'tag':row[0],'queries':row[1:3],"w_answer":row[3],"m_answer":row[4],"w_source":row[5],"m_source":row[6]}
+                    temp = {'tag':int(row[0]),'queries':row[1:3],"w_answer":row[3],"m_answer":row[4],"w_source":row[5],"m_source":row[6]}
                 # All other cases
                 else:
-                    temp = {'tag':row[0],'queries':row[1:3],"answer":row[3],"source":row[4]}
+                    temp = {'tag':int(row[0]),'queries':row[1:3],"answer":row[3],"source":row[4]}
                 
                 # Append to list of respective category
                 master["intents"][filenames[i]].append(temp)

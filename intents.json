@@ -2,7 +2,7 @@
     "intents": {
         "password": [
             {
-                "tag": "1",
+                "tag": 0,
                 "queries": [
                     "I forgot my gmail password",
                     "How do I recover my gmail password?"
@@ -11,7 +11,7 @@
                 "source": "https://www.howtogeek.com/304996/how-to-recover-your-forgotten-gmail-password/"
             },
             {
-                "tag": "2",
+                "tag": 1,
                 "queries": [
                     "Can i prevent people from guessing my password",
                     "What is an account lockout?"
@@ -20,7 +20,7 @@
                 "source": "https://www.computerhope.com/jargon/a/accolock.htm#:~:text=Account%20lockout%20keeps%20the%20account%20secure%20by%20preventing,being%20able%20to%20log%20into%20your%20account%20again."
             },
             {
-                "tag": "3",
+                "tag": 2,
                 "queries": [
                     "I dont know about passwords",
                     "What is a password?"
@@ -29,7 +29,7 @@
                 "source": "https://www.computerhope.com/jargon/p/password.htm"
             },
             {
-                "tag": "4",
+                "tag": 3,
                 "queries": [
                     "Will I be logged in on all devices after password reset? ",
                     "What happens when you reset your password?"
@@ -38,7 +38,7 @@
                 "source": ""
             },
             {
-                "tag": "5",
+                "tag": 4,
                 "queries": [
                     "Can someone else reset the password for my account? ",
                     "What is facilitated password reset? "
@@ -47,7 +47,7 @@
                 "source": "https://www.fastpasscorp.com/blog/facilitated-password-reset-video/"
             },
             {
-                "tag": "6",
+                "tag": 5,
                 "queries": [
                     "Can i change the password already set for me by the system? ",
                     "How to remove auto passwords?"
@@ -56,7 +56,7 @@
                 "source": ""
             },
             {
-                "tag": "7",
+                "tag": 6,
                 "queries": [
                     "Why cant i make a short password",
                     "Why is there a minimum password length?"
@@ -65,7 +65,7 @@
                 "source": ""
             },
             {
-                "tag": "8",
+                "tag": 7,
                 "queries": [
                     "Why is important to use special characters, alphabets and numbers in a password ",
                     "Whats the role of a password being complex with mixture of different characters? "
@@ -74,7 +74,7 @@
                 "source": "https://resources.infosecinstitute.com/topic/password-security-complexity-vs-length/"
             },
             {
-                "tag": "9",
+                "tag": 8,
                 "queries": [
                     "not receiving two factor verification code",
                     "What to do if I am not receiving verfication code? "
@@ -83,7 +83,7 @@
                 "source": ""
             },
             {
-                "tag": "10",
+                "tag": 9,
                 "queries": [
                     "I am unable to reset my password ",
                     "What to do if i can't reset or change expired password?"
@@ -92,7 +92,7 @@
                 "source": ""
             },
             {
-                "tag": "11",
+                "tag": 10,
                 "queries": [
                     "I dont want two factor authentication",
                     "How can I disable two factor authentication?"
@@ -101,7 +101,7 @@
                 "source": ""
             },
             {
-                "tag": "12",
+                "tag": 11,
                 "queries": [
                     "I forgot/lost my phone, how do i get through with 2FA?",
                     "What if I lost the device I used to set up two-factor authentication?"
@@ -110,7 +110,7 @@
                 "source": "https://support.dashlane.com/hc/en-us/articles/202699101-What-if-I-lost-the-device-I-used-to-set-up-Two-Factor-Authentication-"
             },
             {
-                "tag": "13",
+                "tag": 12,
                 "queries": [
                     "Is it safe to repeat same password everywhere?",
                     "Is using same password for multiple accounts/websites safe?"
@@ -119,7 +119,7 @@
                 "source": "https://www.techrepublic.com/article/10-tips-to-help-reduce-user-account-lockouts-and-password-resets/"
             },
             {
-                "tag": "14",
+                "tag": 13,
                 "queries": [
                     "I dont know when my password expires",
                     "How to keep a track that the password will change soon or expire? "
@@ -128,7 +128,7 @@
                 "source": "https://www.techrepublic.com/article/10-tips-to-help-reduce-user-account-lockouts-and-password-resets/"
             },
             {
-                "tag": "15",
+                "tag": 14,
                 "queries": [
                     "Why to use password managers ",
                     "What are the advantages of using a password manager?"
@@ -137,7 +137,7 @@
                 "source": ""
             },
             {
-                "tag": "16",
+                "tag": 15,
                 "queries": [
                     "Why not to use password managers",
                     "What are the disadvantages of using a password manager?"
@@ -146,7 +146,7 @@
                 "source": "https://www.cyclonis.com/what-advantages-disadvantages-using-password-manager/#:~:text=What%20are%20the%20advantages%20of%20using%20a%20password,It%20makes%20it%20easier%20to%20change%20passwords.%20"
             },
             {
-                "tag": "17",
+                "tag": 16,
                 "queries": [
                     "Are there other forms of passwords ",
                     "What is a picture password?"
@@ -155,7 +155,7 @@
                 "source": ""
             },
             {
-                "tag": "18",
+                "tag": 17,
                 "queries": [
                     "I want to unlock my laptop with a picture",
                     "How to enable picture password?"
@@ -164,7 +164,7 @@
                 "source": ""
             },
             {
-                "tag": "19",
+                "tag": 18,
                 "queries": [
                     "why to use automated password reset",
                     "What are the advantages for automated password reset?"
@@ -173,7 +173,7 @@
                 "source": "https://www.bmc.com/blogs/stop-wasting-time-money-automate-password-resets-can-get-important-work-done/"
             },
             {
-                "tag": "20",
+                "tag": 19,
                 "queries": [
                     "",
                     ""
@@ -182,7 +182,7 @@
                 "source": ""
             },
             {
-                "tag": "21",
+                "tag": 20,
                 "queries": [
                     "",
                     ""
@@ -191,7 +191,7 @@
                 "source": ""
             },
             {
-                "tag": "22",
+                "tag": 21,
                 "queries": [
                     "",
                     ""
@@ -200,7 +200,7 @@
                 "source": ""
             },
             {
-                "tag": "23",
+                "tag": 22,
                 "queries": [
                     "",
                     ""
@@ -209,7 +209,7 @@
                 "source": ""
             },
             {
-                "tag": "24",
+                "tag": 23,
                 "queries": [
                     "",
                     ""
@@ -218,7 +218,7 @@
                 "source": ""
             },
             {
-                "tag": "25",
+                "tag": 24,
                 "queries": [
                     "",
                     ""
@@ -227,7 +227,7 @@
                 "source": ""
             },
             {
-                "tag": "26",
+                "tag": 25,
                 "queries": [
                     "I don't know how to make a high-securitty password.",
                     "What are the tips to create a high-security password"
@@ -236,7 +236,7 @@
                 "source": "https://blog.avast.com/strong-password-ideas"
             },
             {
-                "tag": "27",
+                "tag": 26,
                 "queries": [
                     "I need a hint.",
                     "What is my password hint?"
@@ -245,7 +245,7 @@
                 "source": ""
             },
             {
-                "tag": "28",
+                "tag": 27,
                 "queries": [
                     "I want to see all of the security questions",
                     "What are some security questions"
@@ -254,7 +254,7 @@
                 "source": ""
             },
             {
-                "tag": "29",
+                "tag": 28,
                 "queries": [
                     "I don't know what is a security question",
                     "What is a security question"
@@ -263,7 +263,7 @@
                 "source": ""
             },
             {
-                "tag": "30",
+                "tag": 29,
                 "queries": [
                     "Simple password vs. Strong password",
                     "Why do I need to make a strong and uncommon password?"
@@ -272,7 +272,7 @@
                 "source": "http://brainstomp.com/blog/answers-questions-password-security"
             },
             {
-                "tag": "31",
+                "tag": 30,
                 "queries": [
                     "I will include my personal information in my password so I can remember it",
                     "Should I include my personal information in my password?"
@@ -281,7 +281,7 @@
                 "source": "https://www.researchgate.net/publication/317072840_Personal_Information_in_Passwords_and_Its_Security_Implications"
             },
             {
-                "tag": "32",
+                "tag": 31,
                 "queries": [
                     "I have my Capslock on",
                     "Does case-sensitive matter in password?"
@@ -290,7 +290,7 @@
                 "source": ""
             },
             {
-                "tag": "33",
+                "tag": 32,
                 "queries": [
                     "I don't know who can steal my password.",
                     "Who can steal my password?"
@@ -299,7 +299,7 @@
                 "source": ""
             },
             {
-                "tag": "34",
+                "tag": 33,
                 "queries": [
                     "I want to know if my password is safe or not",
                     "How do I know if my password safe or not?"
@@ -308,7 +308,7 @@
                 "source": "https://www.security.org/how-secure-is-my-password/#:~:text=A%20password%20should%20include%20a,their%20address%20or%20phone%20number."
             },
             {
-                "tag": "35",
+                "tag": 34,
                 "queries": [
                     "I want to use previous passwords",
                     "Can I use previous passwords?"
@@ -317,7 +317,7 @@
                 "source": ""
             },
             {
-                "tag": "36",
+                "tag": 35,
                 "queries": [
                     "I don't understand why my new password needs to be unique.",
                     "Why must new password different from the old password?"
@@ -326,7 +326,7 @@
                 "source": "https://security.stackexchange.com/questions/137681/why-must-new-password-must-be-different-from-old"
             },
             {
-                "tag": "37",
+                "tag": 36,
                 "queries": [
                     "I want to use the same password that I used on other websites.",
                     "Should I use the same password for multiple websites?"
@@ -335,7 +335,7 @@
                 "source": ""
             },
             {
-                "tag": "38",
+                "tag": 37,
                 "queries": [
                     "I want to remember my password.",
                     "What should I do to remember your password?"
@@ -344,7 +344,7 @@
                 "source": "https://www.bates.edu/helpdesk/2017/05/10/is-there-a-list-of-common-questions-asked-about-passwords-at-bates/"
             },
             {
-                "tag": "39",
+                "tag": 38,
                 "queries": [
                     "My password is too old",
                     "How often should I change my password?"
@@ -353,7 +353,7 @@
                 "source": "https://www.keepersecurity.com/blog/2020/12/21/how-often-should-you-change-your-password-keeper-security/#:~:text=their%20passwords%20frequently.-,How%20often%20should%20you%20require%20users%20to%20change%20their%20passwords,beef%20up%20your%20password%20security.&text=Creating%20a%20secure%20password%20is,control%20of%20your%20password%20security."
             },
             {
-                "tag": "40",
+                "tag": 39,
                 "queries": [
                     "I want to use two factor authentication",
                     "How does two factor authentication makeyour account more secure"
@@ -362,7 +362,7 @@
                 "source": "https://www.pocket-lint.com/apps/news/141559-what-is-two-factor-authentication-and-why-should-you-use-it"
             },
             {
-                "tag": "41",
+                "tag": 40,
                 "queries": [
                     "I want to set up two factor authentication",
                     "How do I set up two factor authentication?"
@@ -371,7 +371,7 @@
                 "source": ""
             },
             {
-                "tag": "42",
+                "tag": 41,
                 "queries": [
                     "I don't know two factor authentication",
                     "What is two factor authentication?"
@@ -380,7 +380,7 @@
                 "source": "https://www.pocket-lint.com/apps/news/141559-what-is-two-factor-authentication-and-why-should-you-use-it"
             },
             {
-                "tag": "43",
+                "tag": 42,
                 "queries": [
                     "I want to use password managers.",
                     "Should I use password managers?"
@@ -389,7 +389,7 @@
                 "source": "https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers"
             },
             {
-                "tag": "44",
+                "tag": 43,
                 "queries": [
                     "Password managers bad sides",
                     "What are the cons of password managers?"
@@ -398,7 +398,7 @@
                 "source": "https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers"
             },
             {
-                "tag": "45",
+                "tag": 44,
                 "queries": [
                     "My password is safe. I don't want to change it.",
                     "Why your password may not always safe?"
@@ -407,7 +407,7 @@
                 "source": "https://www.forbes.com/sites/brookecrothers/2020/11/14/microsoft-warns-a-strong-password-doesnt-work-neither-does-typical-multi-factor-authentication/?sh=5e80dfdc539e"
             },
             {
-                "tag": "46",
+                "tag": 45,
                 "queries": [
                     "I want to use simple password",
                     "Why I should not use weak passwords?"
@@ -416,7 +416,7 @@
                 "source": "https://security.stackexchange.com/questions/61240/why-not-use-weak-passwords"
             },
             {
-                "tag": "47",
+                "tag": 46,
                 "queries": [
                     "I want to use password generators",
                     "Should I use password generators?"
@@ -425,7 +425,7 @@
                 "source": "https://www.teampassword.com/blog/why-should-i-use-a-password-generator#:~:text=Password%20generators%20can%20save%20you,that%20will%20befit%20your%20requirements."
             },
             {
-                "tag": "48",
+                "tag": 47,
                 "queries": [
                     "Hackers cannot steal my password.",
                     "How can hackers get my password?"
@@ -434,7 +434,7 @@
                 "source": "https://blog.lastpass.com/2020/10/how-do-hackers-get-passwords/"
             },
             {
-                "tag": "49",
+                "tag": 48,
                 "queries": [
                     "I don't know why hackers steal my password",
                     "What happen if hackers stole my password and information?"
@@ -443,7 +443,7 @@
                 "source": "https://www.f-secure.com/us-en/home/articles/why-do-hackers-want-your-personal-information#:~:text=Criminals%20use%20stolen%20login%20credentials,lose%20access%20to%20your%20account."
             },
             {
-                "tag": "50",
+                "tag": 49,
                 "queries": [
                     "I don't need special characters in my password.",
                     "Why should I include some special characters such as @,#,!, etc.?"
@@ -452,7 +452,7 @@
                 "source": ""
             },
             {
-                "tag": "51",
+                "tag": 50,
                 "queries": [
                     "What are the password requirements",
                     "What should my password consist of"
@@ -461,7 +461,7 @@
                 "source": "https://its.lafayette.edu/policies/strongpasswords/"
             },
             {
-                "tag": "52",
+                "tag": 51,
                 "queries": [
                     "What shouldn't I include in a password",
                     "what isn't allowed in my password"
@@ -470,7 +470,7 @@
                 "source": "https://krebsonsecurity.com/password-dos-and-donts/#:~:text=%2DDon't%20use%20easily%20guessed,be%20found%20in%20the%20dictionary."
             },
             {
-                "tag": "53",
+                "tag": 52,
                 "queries": [
                     "which passwords are the most common",
                     "what are common passwords"
@@ -479,7 +479,7 @@
                 "source": "https://www.csoonline.com/article/3526408/most-common-passwords.html"
             },
             {
-                "tag": "54",
+                "tag": 53,
                 "queries": [
                     "can my password be the same as my username",
                     "am i allowed to use my username as a password"
@@ -488,7 +488,7 @@
                 "source": ""
             },
             {
-                "tag": "55",
+                "tag": 54,
                 "queries": [
                     "how long can my password be",
                     "is there a required length for my password"
@@ -497,7 +497,7 @@
                 "source": "https://askleo.com/how_long_should_a_password_be/#:~:text=A%20password%20should%20be%2012,possible%20and%20easy%20to%20remember."
             },
             {
-                "tag": "56",
+                "tag": 55,
                 "queries": [
                     "how often should i change my password ",
                     "should i change my password"
@@ -506,7 +506,7 @@
                 "source": "https://www.keepersecurity.com/blog/2020/12/21/how-often-should-you-change-your-password-keeper-security/#:~:text=their%20passwords%20frequently.-,How%20often%20should%20you%20require%20users%20to%20change%20their%20passwords,beef%20up%20your%20password%20security.&text=Creating%20a%20secure%20password%20is,control%20of%20your%20password%20security."
             },
             {
-                "tag": "57",
+                "tag": 56,
                 "queries": [
                     "why do i need a password",
                     "why are passwords needed "
@@ -515,7 +515,7 @@
                 "source": "https://it.uottawa.ca/security/identity-authentication-theft#:~:text=Passwords%20provide%20the%20first%20line,all%20accounts%20on%20your%20computer."
             },
             {
-                "tag": "58",
+                "tag": 57,
                 "queries": [
                     "what are the best types of passwords ",
                     "what type of password would you recommend"
@@ -524,7 +524,7 @@
                 "source": "https://cybernews.com/best-password-managers/how-to-create-a-strong-password/"
             },
             {
-                "tag": "59",
+                "tag": 58,
                 "queries": [
                     "how can i remeber my password",
                     "What can I do to help me remember my new password?"
@@ -533,7 +533,7 @@
                 "source": "https://www.bates.edu/helpdesk/2017/05/10/is-there-a-list-of-common-questions-asked-about-passwords-at-bates/"
             },
             {
-                "tag": "60",
+                "tag": 59,
                 "queries": [
                     "what are the different types of user autentication methods ",
                     "what types of passwords are there"
@@ -542,7 +542,7 @@
                 "source": ""
             },
             {
-                "tag": "61",
+                "tag": 60,
                 "queries": [
                     "why do i need to reset my password",
                     ""
@@ -551,7 +551,7 @@
                 "source": ""
             },
             {
-                "tag": "62",
+                "tag": 61,
                 "queries": [
                     "what are common security questions",
                     ""
@@ -560,7 +560,7 @@
                 "source": "https://www.journalofaccountancy.com/issues/2018/mar/password-recovery-questions.html"
             },
             {
-                "tag": "63",
+                "tag": 62,
                 "queries": [
                     "can i use the same password for everything",
                     ""
@@ -569,7 +569,7 @@
                 "source": "https://askleo.com/different-passwords-for-everything/"
             },
             {
-                "tag": "64",
+                "tag": 63,
                 "queries": [
                     "why does my password have to be so complicated ",
                     "why does my password have to be unique"
@@ -578,7 +578,7 @@
                 "source": "http://brainstomp.com/blog/answers-questions-password-security"
             },
             {
-                "tag": "65",
+                "tag": 64,
                 "queries": [
                     "should i share my password with people i trust ",
                     "is it safe to share my password"
@@ -587,7 +587,7 @@
                 "source": "http://brainstomp.com/blog/answers-questions-password-security"
             },
             {
-                "tag": "66",
+                "tag": 65,
                 "queries": [
                     "how am i supposed to remember a bunch of unique, difficult passwords?",
                     ""
@@ -596,7 +596,7 @@
                 "source": "http://brainstomp.com/blog/answers-questions-password-security"
             },
             {
-                "tag": "67",
+                "tag": 66,
                 "queries": [
                     "what should i do if someone find out my password ",
                     "what to do if someone guesses my password"
@@ -605,7 +605,7 @@
                 "source": "https://www.bustle.com/p/the-first-thing-you-should-do-if-your-password-is-stolen-69079"
             },
             {
-                "tag": "68",
+                "tag": 67,
                 "queries": [
                     "what type of password system is the most secure",
                     "what type of user authentication method is the most secure"
@@ -614,7 +614,7 @@
                 "source": "https://www.quora.com/What-is-the-most-secure-approach-for-authentication"
             },
             {
-                "tag": "69",
+                "tag": 68,
                 "queries": [
                     "why are security questions needed",
                     ""
@@ -623,7 +623,7 @@
                 "source": "https://www.loginradius.com/blog/start-with-identity/2019/01/best-practices-choosing-good-security-questions/#:~:text=Security%20questions%20can%20add%20an,an%20unfamiliar%20device%20or%20location."
             },
             {
-                "tag": "70",
+                "tag": 69,
                 "queries": [
                     "is it common to share your password",
                     "do people share their passwords "
@@ -632,7 +632,7 @@
                 "source": "https://topcontent.com/blog/4-risks-of-sharing-passwords/"
             },
             {
-                "tag": "71",
+                "tag": 70,
                 "queries": [
                     "I forgot my Skype password",
                     ""
@@ -641,7 +641,7 @@
                 "source": "https://support.skype.com/en/faq/FA109/i-ve-forgotten-my-skype-user-name-or-password"
             },
             {
-                "tag": "72",
+                "tag": 71,
                 "queries": [
                     "How do I change or reset my password for Skype?",
                     ""
@@ -650,7 +650,7 @@
                 "source": "https://support.skype.com/en/faq/fa95/how-do-i-change-or-reset-my-password-for-skype"
             },
             {
-                "tag": "73",
+                "tag": 72,
                 "queries": [
                     "",
                     ""
@@ -659,7 +659,7 @@
                 "source": ""
             },
             {
-                "tag": "74",
+                "tag": 73,
                 "queries": [
                     "",
                     ""
@@ -668,7 +668,7 @@
                 "source": ""
             },
             {
-                "tag": "75",
+                "tag": 74,
                 "queries": [
                     "I need to create a password",
                     "How do I create a strong password ?"
@@ -677,7 +677,7 @@
                 "source": "https://www.webroot.com/us/en/resources/tips-articles/how-do-i-create-a-strong-password#:~:text=The%20key%20aspects%20of%20a,information%2C%20and%20no%20dictionary%20words."
             },
             {
-                "tag": "76",
+                "tag": 75,
                 "queries": [
                     "Change passwords",
                     "Do I really need to change my password often?"
@@ -686,7 +686,7 @@
                 "source": "https://www.keepersecurity.com/blog/2020/12/21/how-often-should-you-change-your-password-keeper-security/#:~:text=their%20passwords%20frequently.-,How%20often%20should%20you%20require%20users%20to%20change%20their%20passwords,beef%20up%20your%20password%20security.&text=Creating%20a%20secure%20password%20is,control%20of%20your%20password%20security."
             },
             {
-                "tag": "77",
+                "tag": 76,
                 "queries": [
                     "password manager",
                     "What are the most popular password managers ?"
@@ -695,7 +695,7 @@
                 "source": "https://www.everplans.com/articles/the-four-most-popular-password-managers"
             },
             {
-                "tag": "78",
+                "tag": 77,
                 "queries": [
                     "Security questions",
                     "What security question should I pick ?"
@@ -704,7 +704,7 @@
                 "source": "https://cheatsheetseries.owasp.org/cheatsheets/Choosing_and_Using_Security_Questions_Cheat_Sheet.html"
             },
             {
-                "tag": "79",
+                "tag": 78,
                 "queries": [
                     "Same password over multiple accounts",
                     "Should I pick up a random password for multiple accounts ?"
@@ -713,7 +713,7 @@
                 "source": "https://askleo.com/different-passwords-for-everything/"
             },
             {
-                "tag": "80",
+                "tag": 79,
                 "queries": [
                     "Apple ID password recovery",
                     "How do I reset my login password using my Apple ID?"
@@ -722,7 +722,7 @@
                 "source": "https://support.apple.com/guide/mac-help/reset-your-mac-login-password-mh35902/mac\\"
             },
             {
-                "tag": "81",
+                "tag": 80,
                 "queries": [
                     "Appple password recovery using recovery key",
                     "How do I reset my login password using a recovery key?"
@@ -731,7 +731,7 @@
                 "source": "https://support.apple.com/guide/mac-help/reset-your-mac-login-password-mh35902/mac"
             },
             {
-                "tag": "82",
+                "tag": 81,
                 "queries": [
                     "Apple passord reset another user",
                     "On Mac, how do I reset the password of another user?"
@@ -740,7 +740,7 @@
                 "source": "https://support.apple.com/guide/mac-help/reset-your-mac-login-password-mh35902/mac"
             },
             {
-                "tag": "83",
+                "tag": 82,
                 "queries": [
                     "Windows password recovery for Windows 10 version 1803 and later",
                     "How do I recover my password for Windows 10 version 1803 and later ?"
@@ -749,7 +749,7 @@
                 "source": "https://support.microsoft.com/en-us/windows/change-or-reset-your-windows-password-8271d17c-9f9e-443f-835a-8318c8f68b9c"
             },
             {
-                "tag": "84",
+                "tag": 83,
                 "queries": [
                     "Windows password recovery for Windows 10 before version 1803",
                     "How do I recover my password for Windows 10 before version 1803 ?"
@@ -758,7 +758,7 @@
                 "source": "https://support.microsoft.com/en-us/windows/change-or-reset-your-windows-password-8271d17c-9f9e-443f-835a-8318c8f68b9c"
             },
             {
-                "tag": "85",
+                "tag": 84,
                 "queries": [
                     "Password change Zoom",
                     "How do I change the password for Zoom ?"
@@ -767,7 +767,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/115005166483-Managing-your-password"
             },
             {
-                "tag": "86",
+                "tag": 85,
                 "queries": [
                     "Adding password login to Google or Facebook login",
                     "How do I add password login to Google or Facebook login on Zoom?"
@@ -776,7 +776,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/115005166483-Managing-your-password"
             },
             {
-                "tag": "87",
+                "tag": 86,
                 "queries": [
                     "password manager",
                     "Where can I store all my passwords to use later ?"
@@ -785,7 +785,7 @@
                 "source": "https://www.howtogeek.com/141500/why-you-should-use-a-password-manager-and-how-to-get-started/"
             },
             {
-                "tag": "88",
+                "tag": 87,
                 "queries": [
                     "Google's Password Manager",
                     "Should I use Google's Password Manager ?"
@@ -794,7 +794,7 @@
                 "source": "https://loginlockdown.com/reviews/google-chrome-password-manager/"
             },
             {
-                "tag": "89",
+                "tag": 88,
                 "queries": [
                     "Service Hacked",
                     "What should I do when a service I use has been hacked ?"
@@ -803,7 +803,7 @@
                 "source": "https://hacked.com/how-to-check-if-youve-been-hacked/"
             },
             {
-                "tag": "90",
+                "tag": 89,
                 "queries": [
                     "Password written down on paper",
                     "Should I write down my passwords on paper ?"
@@ -812,7 +812,7 @@
                 "source": "https://passwordbits.com/write-passwords-down/#:~:text=Yes%2C%20it's%20true%20writing%20down,when%20it%20comes%20to%20passwords."
             },
             {
-                "tag": "91",
+                "tag": 90,
                 "queries": [
                     "Password manager",
                     "Should I pay for my password manager ?"
@@ -821,7 +821,7 @@
                 "source": "https://money.com/paid-password-manager-subscription/"
             },
             {
-                "tag": "92",
+                "tag": 91,
                 "queries": [
                     "",
                     "What should I do when my password is changed without my knowledge ?"
@@ -830,7 +830,7 @@
                 "source": ""
             },
             {
-                "tag": "93",
+                "tag": 92,
                 "queries": [
                     "Password Length",
                     "What is the recommended length for any password ?"
@@ -839,7 +839,7 @@
                 "source": "https://askleo.com/how_long_should_a_password_be/#:~:text=Traditional%20eight%2Dcharacter%20passwords%20are,possible%20and%20easy%20to%20remember."
             },
             {
-                "tag": "94",
+                "tag": 93,
                 "queries": [
                     "Dropbox password email",
                     "What should you do If you get a password or email change notification but didn't reset it yourself?"
@@ -848,7 +848,7 @@
                 "source": "https://help.dropbox.com/accounts-billing/security/unauthorized-account-information-changed"
             },
             {
-                "tag": "95",
+                "tag": 94,
                 "queries": [
                     "LinkedIn password recovery",
                     "How to reset you LinkedIn password using an phone number ?"
@@ -857,7 +857,7 @@
                 "source": "https://www.linkedin.com/help/linkedin/answer/1167/password-reset-basics?lang=en"
             },
             {
-                "tag": "96",
+                "tag": 95,
                 "queries": [
                     "LinkedIn password recovery",
                     "How to reset you LinkedIn password using an email address ?"
@@ -866,7 +866,7 @@
                 "source": "https://www.linkedin.com/help/linkedin/answer/1167/password-reset-basics?lang=en"
             },
             {
-                "tag": "97",
+                "tag": 96,
                 "queries": [
                     "Dropbox password recovery",
                     "What should I do if I suspect an unauthorized person accessed my Dropbox account?"
@@ -875,7 +875,7 @@
                 "source": "https://help.dropbox.com/accounts-billing/security/unauthorized-account-information-changed"
             },
             {
-                "tag": "98",
+                "tag": 97,
                 "queries": [
                     "PIN code",
                     "What is a PIN? Is it secure?"
@@ -884,7 +884,7 @@
                 "source": "https://searchsecurity.techtarget.com/opinion/Whats-the-difference-between-a-password-and-a-PIN"
             },
             {
-                "tag": "99",
+                "tag": 98,
                 "queries": [
                     "Dropbox password recovery",
                     "How to change or reset your Dropbox password from the sign in page?"
@@ -893,7 +893,7 @@
                 "source": "https://help.dropbox.com/accounts-billing/settings-sign-in/password-reset"
             },
             {
-                "tag": "100",
+                "tag": 99,
                 "queries": [
                     "Dropbox password recovery",
                     "How to reset your Dropbox password from your account settings"
@@ -904,7 +904,7 @@
         ],
         "conference": [
             {
-                "tag": "1",
+                "tag": 0,
                 "queries": [
                     "How to change my profile picture on zoom",
                     "I want to change my zoom profile picture"
@@ -913,7 +913,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/201363203-Customizing-your-profile#:~:text=Profile%20settings,or%20upload%20a%20new%20one."
             },
             {
-                "tag": "2",
+                "tag": 1,
                 "queries": [
                     "How to enable recording on zoom",
                     "I want to turn on the option for recording on zoom"
@@ -922,7 +922,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/201362473-Local-recording"
             },
             {
-                "tag": "3",
+                "tag": 2,
                 "queries": [
                     "How to record zoom meetings",
                     "I want to record a meeting on zoom"
@@ -931,7 +931,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/201362473-Local-recording"
             },
             {
-                "tag": "4",
+                "tag": 3,
                 "queries": [
                     "How to turn off chat notifications in zoom",
                     "How to mute chat notifications in zoom"
@@ -940,7 +940,7 @@
                 "source": "https://www.easytweaks.com/stop-zoom-chat-notifications/"
             },
             {
-                "tag": "5",
+                "tag": 4,
                 "queries": [
                     "How to upload my own background in zoom",
                     "I want to use my own background in zoom"
@@ -949,7 +949,7 @@
                 "source": "https://www.tomsguide.com/how-to/how-to-change-your-zoom-background"
             },
             {
-                "tag": "6",
+                "tag": 5,
                 "queries": [
                     "How to schedule a WebEx meeting",
                     "I want to schedule a Cisco WebEx meeting"
@@ -958,7 +958,7 @@
                 "source": "https://help.webex.com/en-us/xm3o0v/Schedule-a-Cisco-Webex-Meeting"
             },
             {
-                "tag": "7",
+                "tag": 6,
                 "queries": [
                     "How to create breakout rooms in zoom",
                     "I want to create breakout rooms in zoom"
@@ -967,7 +967,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms"
             },
             {
-                "tag": "8",
+                "tag": 7,
                 "queries": [
                     "How to enable breakout rooms in zoom",
                     "I want to be able to use breakout rooms in zoom"
@@ -976,7 +976,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/206476093"
             },
             {
-                "tag": "9",
+                "tag": 8,
                 "queries": [
                     "How do I contact Microsoft Teams users from Skype?",
                     "I want to call microsoft teams users from skype"
@@ -985,7 +985,7 @@
                 "source": "https://support.skype.com/en/faq/FA34930/how-do-i-contact-microsoft-teams-users-from-skype"
             },
             {
-                "tag": "10",
+                "tag": 9,
                 "queries": [
                     "How to join a Microsoft Teams meeting",
                     "I want to join a microsoft teams meeting"
@@ -994,7 +994,7 @@
                 "source": "https://support.microsoft.com/en-us/office/join-a-meeting-in-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9"
             },
             {
-                "tag": "11",
+                "tag": 10,
                 "queries": [
                     "How to change my video background in Microsoft Teams",
                     "I want to change my background in microsoft teams"
@@ -1003,7 +1003,7 @@
                 "source": "https://support.microsoft.com/en-us/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae"
             },
             {
-                "tag": "12",
+                "tag": 11,
                 "queries": [
                     "How to start a call in Microsoft Teams",
                     "I want to make a call in microsoft teams"
@@ -1012,7 +1012,7 @@
                 "source": "https://support.microsoft.com/en-us/office/first-things-to-know-about-calls-in-microsoft-teams-2b883a81-dd15-41bd-a6ba-39deef141027"
             },
             {
-                "tag": "13",
+                "tag": 12,
                 "queries": [
                     "How to schedule a microsoft teams meeting",
                     "I want to schedule a meeting in microsoft teams"
@@ -1021,7 +1021,7 @@
                 "source": "https://support.microsoft.com/en-us/office/schedule-a-meeting-in-teams-943507a9-8583-4c58-b5d2-8ec8265e04e5"
             },
             {
-                "tag": "14",
+                "tag": 13,
                 "queries": [
                     "How to invite people outside your organization to your microsoft teams meeting",
                     "I want to invite people to my microsoft teams meeting"
@@ -1030,7 +1030,7 @@
                 "source": "https://support.microsoft.com/en-us/office/schedule-a-meeting-in-teams-943507a9-8583-4c58-b5d2-8ec8265e04e5"
             },
             {
-                "tag": "15",
+                "tag": 14,
                 "queries": [
                     "How to start an instant meeting in microsoft teams",
                     "I want to start a new meeting in microsoft teams"
@@ -1039,7 +1039,7 @@
                 "source": "https://support.microsoft.com/en-us/office/start-an-instant-meeting-in-teams-ff95e53f-8231-4739-87fa-00b9723f4ef5"
             },
             {
-                "tag": "16",
+                "tag": 15,
                 "queries": [
                     "How to share your screen in microsoft teams",
                     "I want to share content in microsoft teams"
@@ -1048,7 +1048,7 @@
                 "source": "https://support.microsoft.com/en-us/office/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8"
             },
             {
-                "tag": "17",
+                "tag": 16,
                 "queries": [
                     "How to enable live captions in microsoft teams",
                     "I want to see captions when someon is speaking in microsoft teams"
@@ -1057,7 +1057,7 @@
                 "source": "https://support.microsoft.com/en-us/office/meetings-and-calls-d92432d5-dd0f-4d17-8f69-06096b6b48a8?ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Meetings"
             },
             {
-                "tag": "18",
+                "tag": 17,
                 "queries": [
                     "How to record a microsoft teams meeting",
                     "I want to record a meeting in microsoft teams"
@@ -1066,7 +1066,7 @@
                 "source": "https://support.microsoft.com/en-us/office/record-a-meeting-in-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24"
             },
             {
-                "tag": "19",
+                "tag": 18,
                 "queries": [
                     "How to create breakout rooms in microsoft teams",
                     "I want to create breakout rooms in microsoft teams"
@@ -1075,7 +1075,7 @@
                 "source": "https://support.microsoft.com/en-us/office/use-breakout-rooms-in-teams-meetings-7de1f48a-da07-466c-a5ab-4ebace28e461"
             },
             {
-                "tag": "20",
+                "tag": 19,
                 "queries": [
                     "How to assign people to breakout rooms in microsoft teams",
                     "I want to assign participants to breakout rooms in microsoft teams"
@@ -1084,7 +1084,7 @@
                 "source": "https://support.microsoft.com/en-us/office/use-breakout-rooms-in-teams-meetings-7de1f48a-da07-466c-a5ab-4ebace28e461"
             },
             {
-                "tag": "21",
+                "tag": 20,
                 "queries": [
                     "How to screen share from iPad or iPhone to zoom on computer",
                     "I want to share screen on my iphone or ipad in zoom"
@@ -1093,7 +1093,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/115005890803-iOS-Screen-Sharing#:~:text=Hold%20down%20on%20the%20record,be%20shared%20into%20the%20meeting."
             },
             {
-                "tag": "22",
+                "tag": 21,
                 "queries": [
                     "How to change my background on WebEx",
                     "I want to change my video background in cisco webex"
@@ -1102,7 +1102,7 @@
                 "source": "https://help.webex.com/en-us/80jduab/Use-a-Virtual-Background-in-the-Cisco-Webex-Meetings-Suite"
             },
             {
-                "tag": "23",
+                "tag": 22,
                 "queries": [
                     "How to share screen in cisco WebEx",
                     "I want to share content in cisco webex"
@@ -1111,7 +1111,7 @@
                 "source": "https://help.webex.com/en-us/n62wi3c/Get-Started-with-Cisco-Webex-Meetings-for-Attendees"
             },
             {
-                "tag": "24",
+                "tag": 23,
                 "queries": [
                     "How to record a cisco WebEx meeting",
                     "I want to record a meeting in cisco webex"
@@ -1120,7 +1120,7 @@
                 "source": "https://help.webex.com/en-us/nrebr3c/Get-Started-with-Cisco-Webex-Meetings-for-Hosts"
             },
             {
-                "tag": "25",
+                "tag": 24,
                 "queries": [
                     "How to start a group conversation in Google Hangouts",
                     "I want to create a group chat in google hangouts"
@@ -1129,7 +1129,7 @@
                 "source": "https://support.google.com/hangouts/answer/3111943?hl=en&ref_topic=6386410"
             },
             {
-                "tag": "26",
+                "tag": 25,
                 "queries": [
                     "How to start a group call in a group message in google hangouts",
                     "I want to start a group vall in google hangouts"
@@ -1138,7 +1138,7 @@
                 "source": "https://support.google.com/hangouts/answer/3111943?hl=en&ref_topic=6386410"
             },
             {
-                "tag": "27",
+                "tag": 26,
                 "queries": [
                     "How to add a person to a hangouts group",
                     "I want to add someone to my google hangouts group"
@@ -1147,7 +1147,7 @@
                 "source": "https://support.google.com/hangouts/answer/3111943?hl=en&ref_topic=6386410#zippy=%2Cadd-people-to-a-conversation"
             },
             {
-                "tag": "28",
+                "tag": 27,
                 "queries": [
                     "Is zoom free to use",
                     "What are the zoom payment options"
@@ -1156,7 +1156,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/201363173-Account-types"
             },
             {
-                "tag": "29",
+                "tag": 28,
                 "queries": [
                     "Is microsoft teams free",
                     "Do you have to pay for microsoft teams"
@@ -1165,7 +1165,7 @@
                 "source": "https://www.microsoft.com/en-us/microsoft-teams/free#:~:text=Is%20Microsoft%20Teams%20really%20free,Unlimited%20chat%20messages%20and%20search."
             },
             {
-                "tag": "30",
+                "tag": 29,
                 "queries": [
                     "Is Cisco Webex free",
                     "Do you have to pay to use Cisco Webex"
@@ -1174,7 +1174,7 @@
                 "source": "https://www.webex.com/pricing/index.html"
             },
             {
-                "tag": "31",
+                "tag": 30,
                 "queries": [
                     "How to show my profile picture when my video is off in zoom",
                     "I want my profile picture to show when my video is off in zoom"
@@ -1183,7 +1183,7 @@
                 "source": "https://www.guidingtech.com/show-profile-picture-instead-video-zoom-meeting/"
             },
             {
-                "tag": "32",
+                "tag": 31,
                 "queries": [
                     "What are the zoom keyboard shortcuts",
                     "I want to edit keyboard shortcuts in zoom"
@@ -1192,7 +1192,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/205683899-hot-keys-and-keyboard-for-zoom"
             },
             {
-                "tag": "33",
+                "tag": 32,
                 "queries": [
                     "How to use dark mode in zoom",
                     "I want to use zoom dark mode on my windows or mac"
@@ -1201,7 +1201,7 @@
                 "source": "https://www.techradar.com/how-to/zoom-dark-mode#:~:text=Zoom%20dark%20mode%20for%20Windows,with%20selected%20inversion%20of%20everything'."
             },
             {
-                "tag": "34",
+                "tag": 33,
                 "queries": [
                     "How do I download Zoom",
                     "I want to download Zoom"
@@ -1210,7 +1210,7 @@
                 "source": "https://zoom.us/download"
             },
             {
-                "tag": "35",
+                "tag": 34,
                 "queries": [
                     "Is Zoom free",
                     "Do I have to pay for Zoom"
@@ -1219,7 +1219,7 @@
                 "source": "https://www.techradar.com/news/what-is-zoom-how-does-it-work-tips-and-tricks-plus-best-alternatives"
             },
             {
-                "tag": "36",
+                "tag": 35,
                 "queries": [
                     "How do I start a Zoom meeting",
                     "I want to start a Zoom meeting"
@@ -1228,7 +1228,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/201362613-How-do-I-host-a-video-meeting-"
             },
             {
-                "tag": "37",
+                "tag": 36,
                 "queries": [
                     "How can I share my Zoom invite",
                     "I want to share my Zoom invite"
@@ -1237,7 +1237,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/201362183-How-do-I-invite-others-to-join-a-meeting-"
             },
             {
-                "tag": "38",
+                "tag": 37,
                 "queries": [
                     "How can I update Zoom",
                     "I want to update Zoom"
@@ -1246,7 +1246,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/201362233-Where-Do-I-Download-The-Latest-Version-"
             },
             {
-                "tag": "39",
+                "tag": 38,
                 "queries": [
                     "What version of Zoom am I running",
                     "I want to see what version of Zoom I am running"
@@ -1255,7 +1255,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/201362233-Where-Do-I-Download-The-Latest-Version-"
             },
             {
-                "tag": "40",
+                "tag": 39,
                 "queries": [
                     "Is there reactions in Zoom",
                     "I want to react in Zoom"
@@ -1264,7 +1264,7 @@
                 "source": "https://nerdschalk.com/how-to-react-with-emojis-on-zoom/"
             },
             {
-                "tag": "41",
+                "tag": 40,
                 "queries": [
                     "How do I chat with members in my Zoom",
                     "I want to use the chat in Zoom"
@@ -1273,7 +1273,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/203650445-In-meeting-chat"
             },
             {
-                "tag": "42",
+                "tag": 41,
                 "queries": [
                     "How can I send a private message in Zoom",
                     "I want to send a private message in Zoom"
@@ -1282,7 +1282,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/203650445-In-meeting-chat"
             },
             {
-                "tag": "43",
+                "tag": 42,
                 "queries": [
                     "How can I mute myself in a Zoom",
                     "I want to mute myself in Zoom"
@@ -1291,7 +1291,7 @@
                 "source": "https://itld.psu.edu/training/participating-zoom-meeting-quick-start-guide"
             },
             {
-                "tag": "44",
+                "tag": 43,
                 "queries": [
                     "How can I turn on my camera in a Zoom",
                     "I want to turn on my camera in Zoom"
@@ -1300,7 +1300,7 @@
                 "source": "https://itld.psu.edu/training/participating-zoom-meeting-quick-start-guide"
             },
             {
-                "tag": "45",
+                "tag": 44,
                 "queries": [
                     "How can I change my view of other Zoom participants",
                     "I want to change the view in Zoom"
@@ -1309,7 +1309,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/201362323-Changing-the-video-layout-Speaker-view-and-Gallery-view-#h_01EF2V8EACKNQ0R96A2WJMPSC2"
             },
             {
-                "tag": "46",
+                "tag": 45,
                 "queries": [
                     "How to share my screen in Zoom",
                     "I want to share my screen in Zoom"
@@ -1318,7 +1318,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-content-or-second-camera"
             },
             {
-                "tag": "47",
+                "tag": 46,
                 "queries": [
                     "How can I assign the host to someone else in Zoom",
                     "I want to change my Zoom's host"
@@ -1327,7 +1327,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/201362573-Pass-Host-Controls-and-Leave-the-Meeting"
             },
             {
-                "tag": "48",
+                "tag": 47,
                 "queries": [
                     "How do I pin a participant in Zoom",
                     "I want to pin a participant in Zoom"
@@ -1336,7 +1336,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/201362743-Pinning-participants-videos"
             },
             {
-                "tag": "49",
+                "tag": 48,
                 "queries": [
                     "How to mute participants in my Zoom meeting",
                     "I want to mute participants in Zoom"
@@ -1345,7 +1345,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/203435537-Muting-and-unmuting-participants-in-a-meeting"
             },
             {
-                "tag": "50",
+                "tag": 49,
                 "queries": [
                     "How do I make a poll in Zoom",
                     "I want to make a poll in Zoom"
@@ -1354,7 +1354,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/213756303-Polling-for-meetings"
             },
             {
-                "tag": "51",
+                "tag": 50,
                 "queries": [
                     "How do I join a Microsoft Teams meeting",
                     "I want to join a Microsoft Teams meeting"
@@ -1363,7 +1363,7 @@
                 "source": "https://support.microsoft.com/en-us/office/join-a-meeting-without-a-teams-account-c6efc38f-4e03-4e79-b28f-e65a4c039508"
             },
             {
-                "tag": "52",
+                "tag": 51,
                 "queries": [
                     "How do I unmute in Microsoft Teams",
                     "I want to unmute myself in Microsoft Teams"
@@ -1372,7 +1372,7 @@
                 "source": "https://tcsp360.com/blog/how-to/how-to-mute-unmute-yourself-in-a-microsoft-teams-meeting/"
             },
             {
-                "tag": "53",
+                "tag": 52,
                 "queries": [
                     "How do I turn on my camera in Microsoft Teams",
                     "I want to turn on my camera in Microsoft Teams"
@@ -1381,7 +1381,7 @@
                 "source": "https://support.microsoft.com/en-us/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae"
             },
             {
-                "tag": "54",
+                "tag": 53,
                 "queries": [
                     "Can I share my screen in Microsoft Teams",
                     "I want to share my camera in Microsoft Teams"
@@ -1390,7 +1390,7 @@
                 "source": "https://support.microsoft.com/en-us/office/show-your-screen-during-a-meeting-90c84e5a-b6fe-4ed4-9687-5923d230d3a7"
             },
             {
-                "tag": "55",
+                "tag": 54,
                 "queries": [
                     "Can I use Zoom from a mobile device",
                     "I want to use Zoom on a mobile device"
@@ -1399,7 +1399,7 @@
                 "source": "https://www.businessinsider.com/how-to-use-zoom"
             },
             {
-                "tag": "56",
+                "tag": 55,
                 "queries": [
                     "Where can I download Microsoft Teams",
                     "I want to download Microsoft Teams"
@@ -1408,7 +1408,7 @@
                 "source": "https://www.microsoft.com/en-us/microsoft-teams/download-app"
             },
             {
-                "tag": "57",
+                "tag": 56,
                 "queries": [
                     "How can I make contacts in Zoom",
                     "I want to add a contact in Zoom"
@@ -1417,7 +1417,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/115004055706-Managing-contacts"
             },
             {
-                "tag": "58",
+                "tag": 57,
                 "queries": [
                     "How can I change my status on Zoom",
                     "I want to change my status in Zoom"
@@ -1426,7 +1426,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/360032554051-Presence-status"
             },
             {
-                "tag": "59",
+                "tag": 58,
                 "queries": [
                     "How can I see my Zoom encryption algorithm",
                     "I want to see my Zoom encryption algorithm"
@@ -1435,7 +1435,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/201362723-Encryption-for-meetings"
             },
             {
-                "tag": "60",
+                "tag": 59,
                 "queries": [
                     "How much memory is Zoom using",
                     "Zoom memory usage"
@@ -1444,7 +1444,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/201362023-System-requirements-for-Windows-macOS-and-Linux"
             },
             {
-                "tag": "61",
+                "tag": 60,
                 "queries": [
                     "Why is my Zoom choppy",
                     "Zoom is choppy"
@@ -1453,7 +1453,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/201362463-Wireless-WiFi-Connection-Issues"
             },
             {
-                "tag": "62",
+                "tag": 61,
                 "queries": [
                     "What bandwidth do I need for video conferencing",
                     "Video conferencing bandwidth"
@@ -1462,7 +1462,7 @@
                 "source": "https://www.freeconference.com/blog/the-minimum-speed-required-for-video-conferencing/"
             },
             {
-                "tag": "63",
+                "tag": 62,
                 "queries": [
                     "How many people can participate in a Zoom",
                     "Zoom maximum participants"
@@ -1471,7 +1471,7 @@
                 "source": "https://zoom.us/pricing"
             },
             {
-                "tag": "64",
+                "tag": 63,
                 "queries": [
                     "What is a Zoom webinar",
                     "Zoom webinar"
@@ -1480,7 +1480,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/200917029-Getting-started-with-webinar"
             },
             {
-                "tag": "65",
+                "tag": 64,
                 "queries": [
                     "Can I use Zoom without a camera",
                     "I want to use Zoom without a camera"
@@ -1489,7 +1489,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/206175806-Frequently-asked-questions"
             },
             {
-                "tag": "66",
+                "tag": 65,
                 "queries": [
                     "Can I use Zoom without a microphone",
                     "I want to use Zoom without a microphone"
@@ -1498,7 +1498,7 @@
                 "source": "https://www.diyvideostudio.com/do-i-need-a-camera-and-microphone-to-use-zoom/"
             },
             {
-                "tag": "67",
+                "tag": 66,
                 "queries": [
                     "What are some free platforms for online conferences",
                     "Free applications for online meetings"
@@ -1507,7 +1507,7 @@
                 "source": "https://getvoip.com/blog/2016/11/21/free-web-conferencing/"
             },
             {
-                "tag": "68",
+                "tag": 67,
                 "queries": [
                     "How to use virtual backgrounds in Google Meet",
                     "I want virtual backgrounds in Google Meet"
@@ -1516,7 +1516,7 @@
                 "source": "https://support.google.com/meet/answer/10058482?co=GENIE.Platform%3DDesktop&hl=en"
             },
             {
-                "tag": "69",
+                "tag": 68,
                 "queries": [
                     "Does Google Meet have reactions",
                     "I want to react in Google Meet"
@@ -1525,7 +1525,7 @@
                 "source": "https://chrome.google.com/webstore/detail/reactions-for-google-meet/hicfolagolebmjahkldfohbmphcoddoh?hl=en"
             },
             {
-                "tag": "70",
+                "tag": 69,
                 "queries": [
                     "Where to change sound settings in Google Meet",
                     "I want to change the volume in Google Meet"
@@ -1534,7 +1534,7 @@
                 "source": "https://support.google.com/meet/answer/9302964?co=GENIE.Platform%3DAndroid&hl=en"
             },
             {
-                "tag": "71",
+                "tag": 70,
                 "queries": [
                     "How to enter a Google Meet meeting with a different email",
                     "I keep entering Google Meet with the same email address"
@@ -1543,7 +1543,7 @@
                 "source": "https://www.youtube.com/watch?v=5nm1Za8ON_Y"
             },
             {
-                "tag": "72",
+                "tag": 71,
                 "queries": [
                     "How to conduct polls in Google Meet",
                     "I want to make polls in Google Meet"
@@ -1552,7 +1552,7 @@
                 "source": "https://support.google.com/meet/answer/10165071?co=GENIE.Platform%3DDesktop&hl=en"
             },
             {
-                "tag": "73",
+                "tag": 72,
                 "queries": [
                     "How to show poll results in Google Meet",
                     "I want to show poll results in Google Meet"
@@ -1561,7 +1561,7 @@
                 "source": "https://support.google.com/meet/answer/10165071?co=GENIE.Platform%3DDesktop&hl=en"
             },
             {
-                "tag": "74",
+                "tag": 73,
                 "queries": [
                     "How to close a poll in Google Meet",
                     "I want to close a poll in Google Meet"
@@ -1570,7 +1570,7 @@
                 "source": "https://support.google.com/meet/answer/10165071?co=GENIE.Platform%3DDesktop&hl=en"
             },
             {
-                "tag": "75",
+                "tag": 74,
                 "queries": [
                     "How to view poll results later in Google Meet",
                     "I want to view poll results after meeting in Google Meet"
@@ -1579,7 +1579,7 @@
                 "source": "https://support.google.com/meet/answer/10165071?co=GENIE.Platform%3DDesktop&hl=en"
             },
             {
-                "tag": "76",
+                "tag": 75,
                 "queries": [
                     "How to find a meeting time that works for everyone",
                     "I want to find the best meeting time"
@@ -1588,7 +1588,7 @@
                 "source": "https://uca.edu/it/knowledgebase-legacy/google-calendar-finding-a-meeting-time-when-all-attendees-are-available/"
             },
             {
-                "tag": "77",
+                "tag": 76,
                 "queries": [
                     "Does Google Meet have filters",
                     "Where can I apply filters in Google Meet?"
@@ -1597,7 +1597,7 @@
                 "source": "https://yourstack.com/pro-tips/279-how-to-use-face-filters-on-google-meet"
             },
             {
-                "tag": "78",
+                "tag": 77,
                 "queries": [
                     "How to attach files in Google Meet",
                     "I want to send files in Google Meet"
@@ -1606,7 +1606,7 @@
                 "source": "https://support.google.com/meet/answer/7290353?co=GENIE.Platform%3DDesktop&hl=en"
             },
             {
-                "tag": "79",
+                "tag": 78,
                 "queries": [
                     "Does Google Meet have breakout rooms",
                     "I want to have breakout rooms in Google Meet"
@@ -1615,7 +1615,7 @@
                 "source": "https://support.google.com/meet/answer/10099500?hl=en"
             },
             {
-                "tag": "80",
+                "tag": 79,
                 "queries": [
                     "How can I raise hands in Google Meet",
                     "I want to raise hands in Google Meet"
@@ -1624,7 +1624,7 @@
                 "source": "https://support.google.com/meet/answer/10159750?co=GENIE.Platform%3DDesktop&hl=en"
             },
             {
-                "tag": "81",
+                "tag": 80,
                 "queries": [
                     "How many people can a Google Meet meeting have",
                     "I want to know the max number of people in a Google Meet meeting"
@@ -1633,7 +1633,7 @@
                 "source": "https://apps.google.com/intl/en/meet/#:~:text=Anyone%20with%20a%20Google%20Account,controls%2C%20see%20plans%20and%20pricing."
             },
             {
-                "tag": "82",
+                "tag": 81,
                 "queries": [
                     "How to share screen in Google Meet",
                     "I want to share my screen in Google Meet"
@@ -1642,7 +1642,7 @@
                 "source": "https://support.google.com/meet/answer/9308856?co=GENIE.Platform%3DDesktop&hl=en"
             },
             {
-                "tag": "83",
+                "tag": 82,
                 "queries": [
                     "Can many people share screens at the same time in Google Meet",
                     "I want to share my screen at the same time as someone else"
@@ -1651,7 +1651,7 @@
                 "source": "https://it.umn.edu/services-technologies/how-tos/compare-zoom-google-hangouts-meet#:~:text=Only%20one%20person%20may%20share%20their%20screen%20at%20a%20time."
             },
             {
-                "tag": "84",
+                "tag": 83,
                 "queries": [
                     "How to record a meeting in Google Meet",
                     "I want to record my Google Meet meeting"
@@ -1660,7 +1660,7 @@
                 "source": "https://support.google.com/a/users/answer/9846751?hl=en"
             },
             {
-                "tag": "85",
+                "tag": 84,
                 "queries": [
                     "What are the differences between Zoom and Google Meet",
                     "Compare Zoom and Google Meet"
@@ -1669,7 +1669,7 @@
                 "source": "https://www.businessinsider.com/google-meet-vs-zoom#feature-comparison"
             },
             {
-                "tag": "86",
+                "tag": 85,
                 "queries": [
                     "How to annotate in Zoom",
                     "I want to draw or annotate in Zoom"
@@ -1678,7 +1678,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/115005706806-Using-annotation-tools-on-a-shared-screen-or-whiteboard"
             },
             {
-                "tag": "87",
+                "tag": 86,
                 "queries": [
                     "How to join a Zoom meeting from web browser",
                     "I don't want to download Zoom"
@@ -1687,7 +1687,7 @@
                 "source": "https://support.zoom.us/hc/en-us/articles/115005666383-Show-a-Join-from-your-browser-Link"
             },
             {
-                "tag": "88",
+                "tag": 87,
                 "queries": [
                     "Can I attend multiple Google Meet",
                     "I want to join many Google Meet meetings"
@@ -1696,7 +1696,7 @@
                 "source": "https://support.google.com/meet/thread/36966039/can-i-open-several-meetings-at-the-same-time?hl=en"
             },
             {
-                "tag": "89",
+                "tag": 88,
                 "queries": [
                     "How to automatically mute myself in Google Meet",
                     "I don't want to use my mic in Google Meet"
@@ -1705,7 +1705,7 @@
                 "source": "https://techwiser.com/how-to-auto-mute-and-turn-off-video-on-google-meet/#:~:text=To%20turn%20off%20the%20mic,yourself%20by%20starting%20a%20meet."
             },
             {
-                "tag": "90",
+                "tag": 89,
                 "queries": [
                     "How to automatically turn of my camera in Google Meet",
                     "I don't want to turn my camera on in Google Meet"
@@ -1714,7 +1714,7 @@
                 "source": "https://www.alphr.com/turn-off-video-camera-google-meet/"
             },
             {
-                "tag": "91",
+                "tag": 90,
                 "queries": [
                     "Can I use a whiteboard in Google Meet",
                     "I need whiteboard in Google Meet"
@@ -1723,7 +1723,7 @@
                 "source": "https://support.google.com/meet/answer/10071448?hl=en"
             },
             {
-                "tag": "92",
+                "tag": 91,
                 "queries": [
                     "How to change camera settings in Google Meet",
                     "I want to change my video settings in Google Meet"
@@ -1732,7 +1732,7 @@
                 "source": "https://support.google.com/meet/answer/9302964?co=GENIE.Platform%3DDesktop&hl=en&oco=1"
             },
             {
-                "tag": "93",
+                "tag": 92,
                 "queries": [
                     "How to turn on Google Meet notifications",
                     "I want to receive notifications from Google Meet"
@@ -1741,7 +1741,7 @@
                 "source": "https://support.google.com/a/users/answer/9848954?hl=en"
             },
             {
-                "tag": "94",
+                "tag": 93,
                 "queries": [
                     "Why my video quality is bad in Google Meet",
                     "I want to improve my video quality in Google Meet"
@@ -1750,7 +1750,7 @@
                 "source": "https://support.google.com/a/answer/7582554?hl=en#zippy=%2Cusers-experience-poor-video-quality"
             },
             {
-                "tag": "95",
+                "tag": 94,
                 "queries": [
                     "How to mute background noise on Google Meet",
                     "I don't want background noise in Google Meet"
@@ -1759,7 +1759,7 @@
                 "source": "https://support.google.com/meet/answer/9919960?co=GENIE.Platform%3DDesktop&hl=en"
             },
             {
-                "tag": "96",
+                "tag": 95,
                 "queries": [
                     "How to save a Google Meet chat",
                     "I want to save the chat in Google Meet"
@@ -1768,7 +1768,7 @@
                 "source": "https://support.google.com/meet/thread/59519526/how-can-we-record-or-save-chats-in-google-meet?hl=en"
             },
             {
-                "tag": "97",
+                "tag": 96,
                 "queries": [
                     "How to see participants list in Google Meet",
                     "I want to see who attend the Google Meet meeting"
@@ -1777,7 +1777,7 @@
                 "source": "https://support.google.com/meet/answer/10090454?hl=en"
             },
             {
-                "tag": "98",
+                "tag": 97,
                 "queries": [
                     "Is there a Google Meet app on desktop",
                     "I want to download Google Meet"
@@ -1786,7 +1786,7 @@
                 "source": "https://support.google.com/meet/answer/7291339?hl=en&ref_topic=7306097"
             },
             {
-                "tag": "99",
+                "tag": 98,
                 "queries": [
                     "Is Google Meet free",
                     "Do I have to pay for Google Meet"
@@ -1795,7 +1795,7 @@
                 "source": "https://apps.google.com/intl/en/meet/pricing/"
             },
             {
-                "tag": "100",
+                "tag": 99,
                 "queries": [
                     "Are there Google Meet discounts",
                     "Can I have discounts for Google Meet"
@@ -1806,7 +1806,7 @@
         ],
         "security": [
             {
-                "tag": "1",
+                "tag": 0,
                 "queries": [
                     "What are the top rated antivirus software available?",
                     ""
@@ -1815,7 +1815,7 @@
                 "source": "usnews.com"
             },
             {
-                "tag": "2",
+                "tag": 1,
                 "queries": [
                     "How do I make a strong password?",
                     ""
@@ -1824,7 +1824,7 @@
                 "source": "support.google.com"
             },
             {
-                "tag": "3",
+                "tag": 2,
                 "queries": [
                     "How do I know if someone is spying on my cell phone?",
                     ""
@@ -1833,7 +1833,7 @@
                 "source": "https://pixelprivacy.com/resources/spying-on-your-cell-phone/"
             },
             {
-                "tag": "4",
+                "tag": 3,
                 "queries": [
                     "How do I know if a social media account is fake?",
                     ""
@@ -1842,7 +1842,7 @@
                 "source": "https://safeonline.ng/social-media/how-to-spot-fake-social-media-account/"
             },
             {
-                "tag": "5",
+                "tag": 4,
                 "queries": [
                     "Can malware be installed without my knowledge?",
                     ""
@@ -1851,7 +1851,7 @@
                 "source": "https://support.microsoft.com/en-us/windows/how-malware-can-infect-your-pc-872bf025-623d-735d-1033-ea4d456fb76b"
             },
             {
-                "tag": "6",
+                "tag": 5,
                 "queries": [
                     "How do I know if an email is a phishing attempt?",
                     ""
@@ -1860,7 +1860,7 @@
                 "source": "https://www.consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams"
             },
             {
-                "tag": "7",
+                "tag": 6,
                 "queries": [
                     "Can someone spy on me through my phone camera?",
                     ""
@@ -1869,7 +1869,7 @@
                 "source": "https://www.gadgetsnow.com/faqs/how-do-i-know-if-someone-is-monitoring-my-phone/articleshow/76994253.cms#:~:text=Can%20someone%20spy%20through%20a,through%20their%20cell%20phone%20camera."
             },
             {
-                "tag": "8",
+                "tag": 7,
                 "queries": [
                     "How do I know when to update my security software?",
                     ""
@@ -1878,7 +1878,7 @@
                 "source": "https://www.pcmag.com/how-to/how-to-check-your-security-software-settings-and-status#:~:text=In%20fact%2C%20check%20all%20your,icon%20in%20the%20notification%20area."
             },
             {
-                "tag": "9",
+                "tag": 8,
                 "queries": [
                     "What personal information should I protect?",
                     ""
@@ -1887,7 +1887,7 @@
                 "source": "https://us.norton.com/internetsecurity-privacy-what-personal-information-should-you-safeguard.html"
             },
             {
-                "tag": "10",
+                "tag": 9,
                 "queries": [
                     "What are the dangers of using a mobile hotspot?",
                     ""
@@ -1896,7 +1896,7 @@
                 "source": "https://searchmobilecomputing.techtarget.com/answer/What-are-the-dangers-of-mobile-hotspot-tethering#:~:text=Mobile%20hotspot%20tethering%2C%20a%20standard,another%20device's%20cellular%20data%20network.&text=The%20problem%20is%20that%20mobile,worse%2C%20to%20breaches%20and%20hacking."
             },
             {
-                "tag": "11",
+                "tag": 10,
                 "queries": [
                     "What are some ways to secure my device while using a mobile hotspot?",
                     ""
@@ -1905,7 +1905,7 @@
                 "source": "https://searchmobilecomputing.techtarget.com/answer/What-are-the-dangers-of-mobile-hotspot-tethering#:~:text=Mobile%20hotspot%20tethering%2C%20a%20standard,another%20device's%20cellular%20data%20network.&text=The%20problem%20is%20that%20mobile,worse%2C%20to%20breaches%20and%20hacking."
             },
             {
-                "tag": "12",
+                "tag": 11,
                 "queries": [
                     "What are some ways to shop safe online?",
                     ""
@@ -1914,7 +1914,7 @@
                 "source": "https://www.lifelock.com/learn-internet-security-safe-online-shopping.html"
             },
             {
-                "tag": "13",
+                "tag": 12,
                 "queries": [
                     "How can I know if an online shop is legit? ",
                     ""
@@ -1923,7 +1923,7 @@
                 "source": "https://justaskthales.com/en/can-i-tell-ecommerce-website-genuine/"
             },
             {
-                "tag": "14",
+                "tag": 13,
                 "queries": [
                     "Should I let my web browser remember my passwords?",
                     ""
@@ -1932,7 +1932,7 @@
                 "source": "https://www.techrepublic.com/article/why-you-should-never-allow-your-web-browser-to-save-your-passwords/"
             },
             {
-                "tag": "15",
+                "tag": 14,
                 "queries": [
                     "Should I answer online security questions truthfully?",
                     ""
@@ -1941,7 +1941,7 @@
                 "source": "https://www.idtheftcenter.org/choose-strong-security-questions-answers-for-online-accounts/"
             },
             {
-                "tag": "16",
+                "tag": 15,
                 "queries": [
                     "Is online banking safe?",
                     ""
@@ -1950,7 +1950,7 @@
                 "source": "https://www.nerdwallet.com/article/banking/online-banking-security"
             },
             {
-                "tag": "17",
+                "tag": 16,
                 "queries": [
                     "How do I improve my online banking security?",
                     ""
@@ -1959,7 +1959,7 @@
                 "source": "https://www.nerdwallet.com/article/banking/online-banking-security"
             },
             {
-                "tag": "18",
+                "tag": 17,
                 "queries": [
                     "Should I use my personal phone number for business?",
                     ""
@@ -1968,7 +1968,7 @@
                 "source": "https://www.mightycall.com/blog/avoid-using-a-personal-cell-phone-number-as-a-business-line/#:~:text=In%20a%20nutshell,phone%20system%20to%20combat%20this."
             },
             {
-                "tag": "19",
+                "tag": 18,
                 "queries": [
                     "Should I use my credit or debit card when shopping online?",
                     ""
@@ -1977,7 +1977,7 @@
                 "source": "https://www.nerdwallet.com/article/credit-cards/credit-card-vs-debit-card-safer-online-purchases"
             },
             {
-                "tag": "20",
+                "tag": 19,
                 "queries": [
                     "Can online ads contain malware?",
                     ""
@@ -1986,7 +1986,7 @@
                 "source": "https://us.norton.com/internetsecurity-malware-malvertising.html#:~:text=Clicking%20on%20such%20an%20ad,of%20malware%20on%20your%20computer."
             },
             {
-                "tag": "21",
+                "tag": 20,
                 "queries": [
                     "What are the most common hacking techniques",
                     ""
@@ -1995,7 +1995,7 @@
                 "source": "https://nordvpn.com/blog/hacking/"
             },
             {
-                "tag": "22",
+                "tag": 21,
                 "queries": [
                     "Which countries account for the most hacking traffic?",
                     ""
@@ -2004,7 +2004,7 @@
                 "source": "https://abcnews.go.com/Technology/slideshow/top-hacking-countries-19844818/image-19845656"
             },
             {
-                "tag": "23",
+                "tag": 22,
                 "queries": [
                     "What does it mean when my camera is on, but I'm not using my camera?",
                     ""
@@ -2013,7 +2013,7 @@
                 "source": "https://nordvpn.com/blog/tell-if-laptop-camera-hacked/"
             },
             {
-                "tag": "24",
+                "tag": 23,
                 "queries": [
                     "Can my smartwatch be hacked?",
                     ""
@@ -2022,7 +2022,7 @@
                 "source": "https://www.zdnet.com/article/smartwatch-tracker-for-the-vulnerable-can-be-hacked-to-send-medication-reminders/#:~:text=ZDNet%20Academy-,Smartwatch%20tracker%20for%20the%20vulnerable%20can%20be%20hacked%20to%20send,send%20fake%20messages%2C%20and%20more."
             },
             {
-                "tag": "25",
+                "tag": 24,
                 "queries": [
                     "Is it possible for an electronic personal assistant to get hacked?",
                     ""
@@ -2031,7 +2031,7 @@
                 "source": "https://theconversation.com/the-dark-side-of-alexa-siri-and-other-personal-digital-assistants-126277#:~:text=Similar%20to%20other%20computer%20programs,in%20breaches%20of%20users'%20privacy."
             },
             {
-                "tag": "26",
+                "tag": 25,
                 "queries": [
                     "How do I know if an app is safe?",
                     ""
@@ -2040,7 +2040,7 @@
                 "source": "http://fopl.ca/news/something-to-share-how-do-i-know-if-an-app-is-safe/"
             },
             {
-                "tag": "27",
+                "tag": 26,
                 "queries": [
                     "How to use emails safely?",
                     ""
@@ -2049,7 +2049,7 @@
                 "source": "https://www.centurylink.com/home/help/internet/security/tips-for-email-safety.html"
             },
             {
-                "tag": "28",
+                "tag": 27,
                 "queries": [
                     "How do I install an antivirus on my computer using Windows?",
                     ""
@@ -2058,7 +2058,7 @@
                 "source": "https://www.wikihow.com/Install-an-Antivirus"
             },
             {
-                "tag": "29",
+                "tag": 28,
                 "queries": [
                     "How do I know if a website is safe? ",
                     ""
@@ -2067,7 +2067,7 @@
                 "source": "https://transparencyreport.google.com/safe-browsing/search?hl=en"
             },
             {
-                "tag": "30",
+                "tag": 29,
                 "queries": [
                     "How do I protect my data if I lost my iphone?",
                     ""
@@ -2076,7 +2076,7 @@
                 "source": "https://support.apple.com/en-gb/HT201472"
             },
             {
-                "tag": "31",
+                "tag": 30,
                 "queries": [
                     "How do I improve my phone security? ",
                     ""
@@ -2085,7 +2085,7 @@
                 "source": "https://www.pandasecurity.com/en/mediacenter/panda-security/mobile-security-tips/"
             },
             {
-                "tag": "32",
+                "tag": 31,
                 "queries": [
                     "How I can recover my Google account as it was hacked? ",
                     ""
@@ -2094,7 +2094,7 @@
                 "source": "https://support.google.com/accounts/answer/7682439?hl=en"
             },
             {
-                "tag": "33",
+                "tag": 32,
                 "queries": [
                     "Are cryptocurrency transactions traceable?",
                     ""
@@ -2103,7 +2103,7 @@
                 "source": "https://www.yahoo.com/now/does-cryptocurrency-safe-110059367.html#:~:text=Due%20to%20their%20nature%2C%20cryptocurrencies,other%20cryptocurrencies%20are%20vastly%20reduced.&text=Cryptocurrencies%20use%20cryptography%20technology%20to%20keep%20transactions%20and%20coins%20secure."
             },
             {
-                "tag": "34",
+                "tag": 33,
                 "queries": [
                     "One way to scan virus files downloaded from the internet?",
                     ""
@@ -2112,7 +2112,7 @@
                 "source": "https://www.wikihow.com/Check-a-Download-for-Viruses"
             },
             {
-                "tag": "35",
+                "tag": 34,
                 "queries": [
                     "How to set up apple pay?",
                     ""
@@ -2121,7 +2121,7 @@
                 "source": "https://support.apple.com/en-us/HT204506"
             },
             {
-                "tag": "36",
+                "tag": 35,
                 "queries": [
                     "How to block anonymous number from calling ifor iphone? ",
                     ""
@@ -2130,7 +2130,7 @@
                 "source": "https://support.apple.com/en-vn/HT207099"
             },
             {
-                "tag": "37",
+                "tag": 36,
                 "queries": [
                     "What should I do if my computer got virus?",
                     ""
@@ -2139,7 +2139,7 @@
                 "source": ""
             },
             {
-                "tag": "38",
+                "tag": 37,
                 "queries": [
                     "How to scan virus from emails as an attachment?",
                     ""
@@ -2148,7 +2148,7 @@
                 "source": "https://support.google.com/mail/answer/25760?hl=en"
             },
             {
-                "tag": "39",
+                "tag": 38,
                 "queries": [
                     "How to prevent scam from internet banking?",
                     ""
@@ -2157,7 +2157,7 @@
                 "source": "https://www.centralbank.net/personal/security/security-news/seven-tips-to-avoid-online-fraud/"
             },
             {
-                "tag": "40",
+                "tag": 39,
                 "queries": [
                     "How to prevent PC getting virus from USB?",
                     ""
@@ -2166,7 +2166,7 @@
                 "source": "https://cybersecuritymonth.eu/press-campaign-toolbox/ecsm-material/pc-portable-devices"
             },
             {
-                "tag": "41",
+                "tag": 40,
                 "queries": [
                     "How to prevent USB from virus attack?",
                     ""
@@ -2175,7 +2175,7 @@
                 "source": "https://clario.co/blog/how-to-prevent-usb-attacks/"
             },
             {
-                "tag": "42",
+                "tag": 41,
                 "queries": [
                     "How to block a social media account? ",
                     ""
@@ -2184,7 +2184,7 @@
                 "source": "https://learn.g2.com/how-to-block-someone-on-social-media"
             },
             {
-                "tag": "43",
+                "tag": 42,
                 "queries": [
                     "How to delete your camera\u2019s video history and snapshots automatically?",
                     ""
@@ -2193,7 +2193,7 @@
                 "source": "https://support.google.com/googlenest/answer/9219185?hl=en#:~:text=Tap%20the%20Settings%20in%20the,able%20to%20get%20them%20back."
             },
             {
-                "tag": "44",
+                "tag": 43,
                 "queries": [
                     "How to check your webcam if it has been hacked? ",
                     ""
@@ -2202,7 +2202,7 @@
                 "source": "https://www.makeuseof.com/tag/check-webcam-hacked/"
             },
             {
-                "tag": "45",
+                "tag": 44,
                 "queries": [
                     "How to stop phones listening and target ads on iphone? ",
                     ""
@@ -2211,7 +2211,7 @@
                 "source": "https://www.spiralytics.com/blog/mobile-ads-can-phone-hear-conversations-infographic/#:~:text=While%20your%20mobile%20phones%20are,good%20idea%20to%20exercise%20caution."
             },
             {
-                "tag": "46",
+                "tag": 45,
                 "queries": [
                     "How to prevent cell phone interception?",
                     ""
@@ -2220,7 +2220,7 @@
                 "source": "https://www.techwalla.com/articles/how-to-detect-cell-phone-interception"
             },
             {
-                "tag": "47",
+                "tag": 46,
                 "queries": [
                     "How to prevent my computer from getting virus? ",
                     ""
@@ -2229,7 +2229,7 @@
                 "source": "https://usa.kaspersky.com/resource-center/threats/how-to-get-rid-of-a-computer-virus"
             },
             {
-                "tag": "48",
+                "tag": 47,
                 "queries": [
                     "What is SSL?",
                     ""
@@ -2238,7 +2238,7 @@
                 "source": "https://www.guru99.com/cyber-security-interview-questions.html"
             },
             {
-                "tag": "49",
+                "tag": 48,
                 "queries": [
                     "Is cryptocurrency secure?",
                     ""
@@ -2247,7 +2247,7 @@
                 "source": "https://www.kaspersky.com/resource-center/definitions/what-is-cryptocurrency"
             },
             {
-                "tag": "50",
+                "tag": 49,
                 "queries": [
                     "What is IDS and IPS?",
                     ""
@@ -2256,7 +2256,7 @@
                 "source": "https://www.guru99.com/cyber-security-interview-questions.html"
             },
             {
-                "tag": "51",
+                "tag": 50,
                 "queries": [
                     "How can one fortify email and instant messaging?",
                     ""
@@ -2265,7 +2265,7 @@
                 "source": "https://www.webroot.com/us/en/resources/tips-articles/resources-internet-security-faq#question_1815"
             },
             {
-                "tag": "52",
+                "tag": 51,
                 "queries": [
                     "What is malware?",
                     ""
@@ -2274,7 +2274,7 @@
                 "source": "https://www.webroot.com/us/en/resources/tips-articles/resources-internet-security-faq#question_1815"
             },
             {
-                "tag": "53",
+                "tag": 52,
                 "queries": [
                     "How can I remove malware?",
                     ""
@@ -2283,7 +2283,7 @@
                 "source": "https://www.webroot.com/us/en/resources/tips-articles/resources-internet-security-faq#question_1815"
             },
             {
-                "tag": "54",
+                "tag": 53,
                 "queries": [
                     "How can I prevent malware?",
                     ""
@@ -2292,7 +2292,7 @@
                 "source": "https://www.webroot.com/us/en/resources/tips-articles/resources-internet-security-faq#question_1815"
             },
             {
-                "tag": "55",
+                "tag": 54,
                 "queries": [
                     "How do prevent popups and their damage?",
                     ""
@@ -2301,7 +2301,7 @@
                 "source": "https://www.webroot.com/us/en/resources/tips-articles/resources-internet-security-faq#question_1815"
             },
             {
-                "tag": "56",
+                "tag": 55,
                 "queries": [
                     "what is phishing?",
                     ""
@@ -2310,7 +2310,7 @@
                 "source": "https://www.webroot.com/us/en/resources/tips-articles/resources-internet-security-faq#question_1815"
             },
             {
-                "tag": "57",
+                "tag": 56,
                 "queries": [
                     "how do you prevent phishing?",
                     ""
@@ -2319,7 +2319,7 @@
                 "source": "https://www.webroot.com/us/en/resources/tips-articles/resources-internet-security-faq#question_1815"
             },
             {
-                "tag": "58",
+                "tag": 57,
                 "queries": [
                     "what are the symptoms of an adware infection?",
                     ""
@@ -2328,7 +2328,7 @@
                 "source": "https://www.webroot.com/us/en/resources/tips-articles/resources-internet-security-faq#question_1815"
             },
             {
-                "tag": "59",
+                "tag": 58,
                 "queries": [
                     "how can i prevent hijacked home pages?",
                     ""
@@ -2337,7 +2337,7 @@
                 "source": "https://www.webroot.com/us/en/resources/tips-articles/resources-internet-security-faq#question_1815"
             },
             {
-                "tag": "60",
+                "tag": 59,
                 "queries": [
                     "how do you fortify internet security?",
                     ""
@@ -2346,7 +2346,7 @@
                 "source": "https://www.webroot.com/us/en/resources/tips-articles/resources-internet-security-faq#question_1815"
             },
             {
-                "tag": "61",
+                "tag": 60,
                 "queries": [
                     "how can one practice safe file sharing?",
                     ""
@@ -2355,7 +2355,7 @@
                 "source": "https://www.webroot.com/us/en/resources/tips-articles/resources-internet-security-faq#question_1815"
             },
             {
-                "tag": "62",
+                "tag": 61,
                 "queries": [
                     "how does adware find a user?",
                     ""
@@ -2364,7 +2364,7 @@
                 "source": "https://www.webroot.com/us/en/resources/tips-articles/resources-internet-security-faq#question_1815"
             },
             {
-                "tag": "63",
+                "tag": 62,
                 "queries": [
                     "What are some examples of freeware that may deliver adware?",
                     ""
@@ -2373,7 +2373,7 @@
                 "source": "https://www.webroot.com/us/en/resources/tips-articles/resources-internet-security-faq#question_1815"
             },
             {
-                "tag": "64",
+                "tag": 63,
                 "queries": [
                     "How does a firewall work?",
                     ""
@@ -2382,7 +2382,7 @@
                 "source": "https://cybersecurityforum.com/cybersecurity-faq/"
             },
             {
-                "tag": "65",
+                "tag": 64,
                 "queries": [
                     "what are the two different methods that can be used to identify and eliminate malware?",
                     ""
@@ -2391,7 +2391,7 @@
                 "source": "https://cybersecurityforum.com/cybersecurity-faq/"
             },
             {
-                "tag": "66",
+                "tag": 65,
                 "queries": [
                     "How does the virus dictionary approach work?",
                     ""
@@ -2400,7 +2400,7 @@
                 "source": "https://cybersecurityforum.com/cybersecurity-faq/"
             },
             {
-                "tag": "67",
+                "tag": 66,
                 "queries": [
                     "How does the suspicious behavior approach work?",
                     ""
@@ -2409,7 +2409,7 @@
                 "source": "https://cybersecurityforum.com/cybersecurity-faq/"
             },
             {
-                "tag": "68",
+                "tag": 67,
                 "queries": [
                     "What is data encryption?",
                     ""
@@ -2418,7 +2418,7 @@
                 "source": "https://digitalguardian.com/blog/what-data-encryption"
             },
             {
-                "tag": "69",
+                "tag": 68,
                 "queries": [
                     "What are the types of data encryption?",
                     ""
@@ -2427,7 +2427,7 @@
                 "source": "https://digitalguardian.com/blog/what-data-encryption"
             },
             {
-                "tag": "70",
+                "tag": 69,
                 "queries": [
                     "How does asymmetric encription work?",
                     ""
@@ -2436,7 +2436,7 @@
                 "source": "https://digitalguardian.com/blog/what-data-encryption"
             },
             {
-                "tag": "71",
+                "tag": 70,
                 "queries": [
                     "How does symmetric encription work?",
                     ""
@@ -2445,7 +2445,7 @@
                 "source": "https://digitalguardian.com/blog/what-data-encryption"
             },
             {
-                "tag": "72",
+                "tag": 71,
                 "queries": [
                     "What is a major weakpoint that can be easily exploited by cyber criminals?",
                     ""
@@ -2454,7 +2454,7 @@
                 "source": "https://cyberthreatportal.com/types-of-computer-security/"
             },
             {
-                "tag": "73",
+                "tag": 72,
                 "queries": [
                     "What is DDoS?",
                     ""
@@ -2463,7 +2463,7 @@
                 "source": "https://www.simplilearn.com/what-is-computer-security-article"
             },
             {
-                "tag": "74",
+                "tag": 73,
                 "queries": [
                     "What is eavesdropping in terms of computer security?",
                     ""
@@ -2472,7 +2472,7 @@
                 "source": "https://www.simplilearn.com/what-is-computer-security-article"
             },
             {
-                "tag": "75",
+                "tag": 74,
                 "queries": [
                     "How do I know how secure a website is?",
                     ""
@@ -2481,7 +2481,7 @@
                 "source": "https://support.google.com/chrome/answer/95617?hl=en"
             },
             {
-                "tag": "76",
+                "tag": 75,
                 "queries": [
                     "How can I tell if my connection is secure?",
                     ""
@@ -2490,7 +2490,7 @@
                 "source": "https://www.makeuseof.com/tag/3-ways-check-security-internet-connection/#:~:text=You%20can%20tell%20if%20a,know%20your%20data%20is%20encrypted."
             },
             {
-                "tag": "77",
+                "tag": 76,
                 "queries": [
                     "How do I know if my VPN is actually encrypted?",
                     ""
@@ -2499,7 +2499,7 @@
                 "source": "https://www.beencrypted.com/vpn/check-vpn-connection-actually-encrypted/"
             },
             {
-                "tag": "78",
+                "tag": 77,
                 "queries": [
                     "How do I hide traffic on my network?",
                     ""
@@ -2508,7 +2508,7 @@
                 "source": ""
             },
             {
-                "tag": "79",
+                "tag": 78,
                 "queries": [
                     "How do I find out my IP address?",
                     ""
@@ -2517,7 +2517,7 @@
                 "source": "https://bonkersabouttech.com/how-to-check-if-network-traffic-is-encrypted/"
             },
             {
-                "tag": "80",
+                "tag": 79,
                 "queries": [
                     "How do I know if my computer's security has been compromised?",
                     ""
@@ -2526,7 +2526,7 @@
                 "source": ""
             },
             {
-                "tag": "81",
+                "tag": 80,
                 "queries": [
                     "How can I tell if a business is legitimate?",
                     ""
@@ -2535,7 +2535,7 @@
                 "source": ""
             },
             {
-                "tag": "82",
+                "tag": 81,
                 "queries": [
                     "Should I install software from an unknown location?",
                     ""
@@ -2544,7 +2544,7 @@
                 "source": ""
             },
             {
-                "tag": "83",
+                "tag": 82,
                 "queries": [
                     "How do I know if an email is safe to open?",
                     ""
@@ -2553,7 +2553,7 @@
                 "source": ""
             },
             {
-                "tag": "84",
+                "tag": 83,
                 "queries": [
                     "What file extensions could indicate a virus?",
                     ""
@@ -2562,7 +2562,7 @@
                 "source": "https://www.support.com/blog/how-to-tell-if-email-attachments-are-safe-or-a-virus-13386"
             },
             {
-                "tag": "85",
+                "tag": 84,
                 "queries": [
                     "Is it safe to use public Wi-Fi?",
                     ""
@@ -2571,7 +2571,7 @@
                 "source": ""
             },
             {
-                "tag": "86",
+                "tag": 85,
                 "queries": [
                     "Are all websites encrypted?",
                     ""
@@ -2580,7 +2580,7 @@
                 "source": "https://www.consumerreports.org/digital-security/is-using-public-wifi-still-a-bad-idea/#:~:text=It%20depends%2C%20security%20experts%20say,safer%20but%20not%20risk%2Dfree.&text=Security%20experts%20have%20long%20advised,the%20risk%20of%20being%20hacked.&text=Most%20sensitive%20data%20is%20now%20sent%20through%20encrypted%20channels."
             },
             {
-                "tag": "87",
+                "tag": 86,
                 "queries": [
                     "How do I check my current antivirus software?",
                     ""
@@ -2589,7 +2589,7 @@
                 "source": "https://support.microsoft.com/en-us/windows/stay-protected-with-windows-security-2ae0363d-0ada-c064-8b56-6a39afb6a963"
             },
             {
-                "tag": "88",
+                "tag": 87,
                 "queries": [
                     "How do I update my operating system?",
                     ""
@@ -2598,7 +2598,7 @@
                 "source": "https://support.microsoft.com/en-us/windows/update-windows-10-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a, https://support.apple.com/en-us/HT201541"
             },
             {
-                "tag": "89",
+                "tag": 88,
                 "queries": [
                     "Are apps downloaded from an official app store safe?",
                     ""
@@ -2607,7 +2607,7 @@
                 "source": "https://support.apple.com/guide/security/app-security-overview-sec35dd877d0/web, https://community.windows.com/en-us/stories/get-the-apps-you-need-in-microsoft-store"
             },
             {
-                "tag": "90",
+                "tag": 89,
                 "queries": [
                     "Is my data really gone when I delete it?",
                     ""
@@ -2616,7 +2616,7 @@
                 "source": "https://us.norton.com/internetsecurity-privacy-is-personal-data-really-gone-when-it-is-deleted.html#:~:text=The%20file%20still%20exists%20on,seriously%20until%20it's%20too%20late."
             },
             {
-                "tag": "91",
+                "tag": 90,
                 "queries": [
                     "When should I wipe my hard drive?",
                     ""
@@ -2625,7 +2625,7 @@
                 "source": "https://us.norton.com/internetsecurity-privacy-is-personal-data-really-gone-when-it-is-deleted.html#:~:text=The%20file%20still%20exists%20on,seriously%20until%20it's%20too%20late."
             },
             {
-                "tag": "92",
+                "tag": 91,
                 "queries": [
                     "What do I do to delete my data permanently before returning a computer?",
                     ""
@@ -2634,7 +2634,7 @@
                 "source": "https://computing.which.co.uk/hc/en-gb/articles/208270025-How-to-factory-reset-a-computer#:~:text=If%20you're%20getting%20rid,and%20profile%20setup%20all%20removed."
             },
             {
-                "tag": "93",
+                "tag": 92,
                 "queries": [
                     "How do I factory reset my device?",
                     ""
@@ -2643,7 +2643,7 @@
                 "source": "https://www.gearpatrol.com/tech/a695665/factory-reset-apple-devices/, "
             },
             {
-                "tag": "94",
+                "tag": 93,
                 "queries": [
                     "How can I kick unauthorized users off of my accounts?",
                     ""
@@ -2652,7 +2652,7 @@
                 "source": ""
             },
             {
-                "tag": "95",
+                "tag": 94,
                 "queries": [
                     "Is Bluetooth secure?",
                     ""
@@ -2661,7 +2661,7 @@
                 "source": ""
             },
             {
-                "tag": "96",
+                "tag": 95,
                 "queries": [
                     "How do I secure app accounts?",
                     ""
@@ -2670,7 +2670,7 @@
                 "source": ""
             },
             {
-                "tag": "97",
+                "tag": 96,
                 "queries": [
                     "How do I remove a keylogger?",
                     ""
@@ -2679,7 +2679,7 @@
                 "source": "https://helpdeskgeek.com/featured-posts/hdg-explains-what-is-a-keylogger-how-do-i-remove-it-from-my-computer/"
             },
             {
-                "tag": "98",
+                "tag": 97,
                 "queries": [
                     "Can I keep my Wi-Fi default password?",
                     ""
@@ -2688,7 +2688,7 @@
                 "source": ""
             },
             {
-                "tag": "99",
+                "tag": 98,
                 "queries": [
                     "Do I need to update my device?",
                     ""
@@ -2697,7 +2697,7 @@
                 "source": ""
             },
             {
-                "tag": "100",
+                "tag": 99,
                 "queries": [
                     "Do I need to update my antivirus software?",
                     ""
@@ -2708,7 +2708,7 @@
         ],
         "network": [
             {
-                "tag": "1",
+                "tag": 0,
                 "queries": [
                     "How do I increase the strength of my internet connection?\u201d",
                     ""
@@ -2717,7 +2717,7 @@
                 "source": "https://www.allconnect.com/blog/boost-your-wi-fi-signal-to-get-the-most-out-of-your-high-speed-internet-connection"
             },
             {
-                "tag": "2",
+                "tag": 1,
                 "queries": [
                     "How do I reset my router?",
                     ""
@@ -2726,7 +2726,7 @@
                 "source": ""
             },
             {
-                "tag": "3",
+                "tag": 2,
                 "queries": [
                     "",
                     ""
@@ -2735,7 +2735,7 @@
                 "source": ""
             },
             {
-                "tag": "4",
+                "tag": 3,
                 "queries": [
                     "",
                     ""
@@ -2744,7 +2744,7 @@
                 "source": ""
             },
             {
-                "tag": "5",
+                "tag": 4,
                 "queries": [
                     "",
                     ""
@@ -2753,7 +2753,7 @@
                 "source": ""
             },
             {
-                "tag": "6",
+                "tag": 5,
                 "queries": [
                     "",
                     ""
@@ -2762,7 +2762,7 @@
                 "source": ""
             },
             {
-                "tag": "7",
+                "tag": 6,
                 "queries": [
                     "",
                     ""
@@ -2771,7 +2771,7 @@
                 "source": ""
             },
             {
-                "tag": "8",
+                "tag": 7,
                 "queries": [
                     "",
                     ""
@@ -2780,7 +2780,7 @@
                 "source": ""
             },
             {
-                "tag": "9",
+                "tag": 8,
                 "queries": [
                     "",
                     ""
@@ -2789,7 +2789,7 @@
                 "source": ""
             },
             {
-                "tag": "10",
+                "tag": 9,
                 "queries": [
                     "",
                     ""
@@ -2798,7 +2798,7 @@
                 "source": ""
             },
             {
-                "tag": "11",
+                "tag": 10,
                 "queries": [
                     "",
                     ""
@@ -2807,7 +2807,7 @@
                 "source": ""
             },
             {
-                "tag": "12",
+                "tag": 11,
                 "queries": [
                     "",
                     ""
@@ -2816,7 +2816,7 @@
                 "source": ""
             },
             {
-                "tag": "13",
+                "tag": 12,
                 "queries": [
                     "",
                     ""
@@ -2825,7 +2825,7 @@
                 "source": ""
             },
             {
-                "tag": "14",
+                "tag": 13,
                 "queries": [
                     "",
                     ""
@@ -2834,7 +2834,7 @@
                 "source": ""
             },
             {
-                "tag": "15",
+                "tag": 14,
                 "queries": [
                     "",
                     ""
@@ -2843,7 +2843,7 @@
                 "source": ""
             },
             {
-                "tag": "16",
+                "tag": 15,
                 "queries": [
                     "",
                     ""
@@ -2852,7 +2852,7 @@
                 "source": ""
             },
             {
-                "tag": "17",
+                "tag": 16,
                 "queries": [
                     "",
                     ""
@@ -2861,7 +2861,7 @@
                 "source": ""
             },
             {
-                "tag": "18",
+                "tag": 17,
                 "queries": [
                     "",
                     ""
@@ -2870,7 +2870,7 @@
                 "source": ""
             },
             {
-                "tag": "19",
+                "tag": 18,
                 "queries": [
                     "",
                     ""
@@ -2879,7 +2879,7 @@
                 "source": ""
             },
             {
-                "tag": "20",
+                "tag": 19,
                 "queries": [
                     "",
                     ""
@@ -2888,7 +2888,7 @@
                 "source": ""
             },
             {
-                "tag": "21",
+                "tag": 20,
                 "queries": [
                     "",
                     ""
@@ -2897,7 +2897,7 @@
                 "source": ""
             },
             {
-                "tag": "22",
+                "tag": 21,
                 "queries": [
                     "",
                     ""
@@ -2906,7 +2906,7 @@
                 "source": ""
             },
             {
-                "tag": "23",
+                "tag": 22,
                 "queries": [
                     "",
                     ""
@@ -2915,7 +2915,7 @@
                 "source": ""
             },
             {
-                "tag": "24",
+                "tag": 23,
                 "queries": [
                     "",
                     ""
@@ -2924,7 +2924,7 @@
                 "source": ""
             },
             {
-                "tag": "25",
+                "tag": 24,
                 "queries": [
                     "",
                     ""
@@ -2933,7 +2933,7 @@
                 "source": ""
             },
             {
-                "tag": "26",
+                "tag": 25,
                 "queries": [
                     "How do I get rid of a virus on my network?",
                     ""
@@ -2942,7 +2942,7 @@
                 "source": "https://www.a-b-s.com/common-network-issues-solutions"
             },
             {
-                "tag": "27",
+                "tag": 26,
                 "queries": [
                     "What if the IP address is already in use? ",
                     ""
@@ -2951,7 +2951,7 @@
                 "source": ""
             },
             {
-                "tag": "28",
+                "tag": 27,
                 "queries": [
                     "",
                     ""
@@ -2960,7 +2960,7 @@
                 "source": ""
             },
             {
-                "tag": "29",
+                "tag": 28,
                 "queries": [
                     "",
                     ""
@@ -2969,7 +2969,7 @@
                 "source": ""
             },
             {
-                "tag": "30",
+                "tag": 29,
                 "queries": [
                     "",
                     ""
@@ -2978,7 +2978,7 @@
                 "source": ""
             },
             {
-                "tag": "31",
+                "tag": 30,
                 "queries": [
                     "",
                     ""
@@ -2987,7 +2987,7 @@
                 "source": ""
             },
             {
-                "tag": "32",
+                "tag": 31,
                 "queries": [
                     "",
                     ""
@@ -2996,7 +2996,7 @@
                 "source": ""
             },
             {
-                "tag": "33",
+                "tag": 32,
                 "queries": [
                     "",
                     ""
@@ -3005,7 +3005,7 @@
                 "source": ""
             },
             {
-                "tag": "34",
+                "tag": 33,
                 "queries": [
                     "",
                     ""
@@ -3014,7 +3014,7 @@
                 "source": ""
             },
             {
-                "tag": "35",
+                "tag": 34,
                 "queries": [
                     "",
                     ""
@@ -3023,7 +3023,7 @@
                 "source": ""
             },
             {
-                "tag": "36",
+                "tag": 35,
                 "queries": [
                     "",
                     ""
@@ -3032,7 +3032,7 @@
                 "source": ""
             },
             {
-                "tag": "37",
+                "tag": 36,
                 "queries": [
                     "",
                     ""
@@ -3041,7 +3041,7 @@
                 "source": ""
             },
             {
-                "tag": "38",
+                "tag": 37,
                 "queries": [
                     "",
                     ""
@@ -3050,7 +3050,7 @@
                 "source": ""
             },
             {
-                "tag": "39",
+                "tag": 38,
                 "queries": [
                     "",
                     ""
@@ -3059,7 +3059,7 @@
                 "source": ""
             },
             {
-                "tag": "40",
+                "tag": 39,
                 "queries": [
                     "",
                     ""
@@ -3068,7 +3068,7 @@
                 "source": ""
             },
             {
-                "tag": "41",
+                "tag": 40,
                 "queries": [
                     "",
                     ""
@@ -3077,7 +3077,7 @@
                 "source": ""
             },
             {
-                "tag": "42",
+                "tag": 41,
                 "queries": [
                     "",
                     ""
@@ -3086,7 +3086,7 @@
                 "source": ""
             },
             {
-                "tag": "43",
+                "tag": 42,
                 "queries": [
                     "",
                     ""
@@ -3095,7 +3095,7 @@
                 "source": ""
             },
             {
-                "tag": "44",
+                "tag": 43,
                 "queries": [
                     "",
                     ""
@@ -3104,7 +3104,7 @@
                 "source": ""
             },
             {
-                "tag": "45",
+                "tag": 44,
                 "queries": [
                     "",
                     ""
@@ -3113,7 +3113,7 @@
                 "source": ""
             },
             {
-                "tag": "46",
+                "tag": 45,
                 "queries": [
                     "",
                     ""
@@ -3122,7 +3122,7 @@
                 "source": ""
             },
             {
-                "tag": "47",
+                "tag": 46,
                 "queries": [
                     "",
                     ""
@@ -3131,7 +3131,7 @@
                 "source": ""
             },
             {
-                "tag": "48",
+                "tag": 47,
                 "queries": [
                     "",
                     ""
@@ -3140,7 +3140,7 @@
                 "source": ""
             },
             {
-                "tag": "49",
+                "tag": 48,
                 "queries": [
                     "",
                     ""
@@ -3149,7 +3149,7 @@
                 "source": ""
             },
             {
-                "tag": "50",
+                "tag": 49,
                 "queries": [
                     "",
                     ""
@@ -3158,7 +3158,7 @@
                 "source": ""
             },
             {
-                "tag": "51",
+                "tag": 50,
                 "queries": [
                     "My wifi isn't working",
                     ""
@@ -3167,7 +3167,7 @@
                 "source": "https://www.macworld.co.uk/how-to/fix-wifi-problems-3605043/#:~:text=Reboot%20your%20router&text=Make%20sure%20your%20router%20is,consider%20using%20the%205GHz%20band"
             },
             {
-                "tag": "52",
+                "tag": 51,
                 "queries": [
                     "What do I do when an error says my IP address is duplicated/already in use?",
                     ""
@@ -3176,7 +3176,7 @@
                 "source": "https://www.a-b-s.com/common-network-issues-solutions"
             },
             {
-                "tag": "53",
+                "tag": 52,
                 "queries": [
                     "How do I connect to devices through Bluetooth?",
                     ""
@@ -3185,7 +3185,7 @@
                 "source": "NA"
             },
             {
-                "tag": "54",
+                "tag": 53,
                 "queries": [
                     "",
                     ""
@@ -3194,7 +3194,7 @@
                 "source": ""
             },
             {
-                "tag": "55",
+                "tag": 54,
                 "queries": [
                     "",
                     ""
@@ -3203,7 +3203,7 @@
                 "source": ""
             },
             {
-                "tag": "56",
+                "tag": 55,
                 "queries": [
                     "",
                     ""
@@ -3212,7 +3212,7 @@
                 "source": ""
             },
             {
-                "tag": "57",
+                "tag": 56,
                 "queries": [
                     "",
                     ""
@@ -3221,7 +3221,7 @@
                 "source": ""
             },
             {
-                "tag": "58",
+                "tag": 57,
                 "queries": [
                     "",
                     ""
@@ -3230,7 +3230,7 @@
                 "source": ""
             },
             {
-                "tag": "59",
+                "tag": 58,
                 "queries": [
                     "",
                     ""
@@ -3239,7 +3239,7 @@
                 "source": ""
             },
             {
-                "tag": "60",
+                "tag": 59,
                 "queries": [
                     "",
                     ""
@@ -3248,7 +3248,7 @@
                 "source": ""
             },
             {
-                "tag": "61",
+                "tag": 60,
                 "queries": [
                     "",
                     ""
@@ -3257,7 +3257,7 @@
                 "source": ""
             },
             {
-                "tag": "62",
+                "tag": 61,
                 "queries": [
                     "",
                     ""
@@ -3266,7 +3266,7 @@
                 "source": ""
             },
             {
-                "tag": "63",
+                "tag": 62,
                 "queries": [
                     "",
                     ""
@@ -3275,7 +3275,7 @@
                 "source": ""
             },
             {
-                "tag": "64",
+                "tag": 63,
                 "queries": [
                     "",
                     ""
@@ -3284,7 +3284,7 @@
                 "source": ""
             },
             {
-                "tag": "65",
+                "tag": 64,
                 "queries": [
                     "",
                     ""
@@ -3293,7 +3293,7 @@
                 "source": ""
             },
             {
-                "tag": "66",
+                "tag": 65,
                 "queries": [
                     "",
                     ""
@@ -3302,7 +3302,7 @@
                 "source": ""
             },
             {
-                "tag": "67",
+                "tag": 66,
                 "queries": [
                     "",
                     ""
@@ -3311,7 +3311,7 @@
                 "source": ""
             },
             {
-                "tag": "68",
+                "tag": 67,
                 "queries": [
                     "",
                     ""
@@ -3320,7 +3320,7 @@
                 "source": ""
             },
             {
-                "tag": "69",
+                "tag": 68,
                 "queries": [
                     "",
                     ""
@@ -3329,7 +3329,7 @@
                 "source": ""
             },
             {
-                "tag": "70",
+                "tag": 69,
                 "queries": [
                     "",
                     ""
@@ -3338,7 +3338,7 @@
                 "source": ""
             },
             {
-                "tag": "71",
+                "tag": 70,
                 "queries": [
                     "",
                     ""
@@ -3347,7 +3347,7 @@
                 "source": ""
             },
             {
-                "tag": "72",
+                "tag": 71,
                 "queries": [
                     "",
                     ""
@@ -3356,7 +3356,7 @@
                 "source": ""
             },
             {
-                "tag": "73",
+                "tag": 72,
                 "queries": [
                     "",
                     ""
@@ -3365,7 +3365,7 @@
                 "source": ""
             },
             {
-                "tag": "74",
+                "tag": 73,
                 "queries": [
                     "",
                     ""
@@ -3374,7 +3374,7 @@
                 "source": ""
             },
             {
-                "tag": "75",
+                "tag": 74,
                 "queries": [
                     "",
                     ""
@@ -3383,7 +3383,7 @@
                 "source": ""
             },
             {
-                "tag": "76",
+                "tag": 75,
                 "queries": [
                     "",
                     ""
@@ -3392,7 +3392,7 @@
                 "source": ""
             },
             {
-                "tag": "77",
+                "tag": 76,
                 "queries": [
                     "",
                     ""
@@ -3401,7 +3401,7 @@
                 "source": ""
             },
             {
-                "tag": "78",
+                "tag": 77,
                 "queries": [
                     "",
                     ""
@@ -3410,7 +3410,7 @@
                 "source": ""
             },
             {
-                "tag": "79",
+                "tag": 78,
                 "queries": [
                     "",
                     ""
@@ -3419,7 +3419,7 @@
                 "source": ""
             },
             {
-                "tag": "80",
+                "tag": 79,
                 "queries": [
                     "",
                     ""
@@ -3428,7 +3428,7 @@
                 "source": ""
             },
             {
-                "tag": "81",
+                "tag": 80,
                 "queries": [
                     "",
                     ""
@@ -3437,7 +3437,7 @@
                 "source": ""
             },
             {
-                "tag": "82",
+                "tag": 81,
                 "queries": [
                     "",
                     ""
@@ -3446,7 +3446,7 @@
                 "source": ""
             },
             {
-                "tag": "83",
+                "tag": 82,
                 "queries": [
                     "",
                     ""
@@ -3455,7 +3455,7 @@
                 "source": ""
             },
             {
-                "tag": "84",
+                "tag": 83,
                 "queries": [
                     "",
                     ""
@@ -3464,7 +3464,7 @@
                 "source": ""
             },
             {
-                "tag": "85",
+                "tag": 84,
                 "queries": [
                     "",
                     ""
@@ -3473,7 +3473,7 @@
                 "source": ""
             },
             {
-                "tag": "86",
+                "tag": 85,
                 "queries": [
                     "",
                     ""
@@ -3482,7 +3482,7 @@
                 "source": ""
             },
             {
-                "tag": "87",
+                "tag": 86,
                 "queries": [
                     "",
                     ""
@@ -3491,7 +3491,7 @@
                 "source": ""
             },
             {
-                "tag": "88",
+                "tag": 87,
                 "queries": [
                     "",
                     ""
@@ -3500,7 +3500,7 @@
                 "source": ""
             },
             {
-                "tag": "89",
+                "tag": 88,
                 "queries": [
                     "",
                     ""
@@ -3509,7 +3509,7 @@
                 "source": ""
             },
             {
-                "tag": "90",
+                "tag": 89,
                 "queries": [
                     "",
                     ""
@@ -3518,7 +3518,7 @@
                 "source": ""
             },
             {
-                "tag": "91",
+                "tag": 90,
                 "queries": [
                     "",
                     ""
@@ -3527,7 +3527,7 @@
                 "source": ""
             },
             {
-                "tag": "92",
+                "tag": 91,
                 "queries": [
                     "",
                     ""
@@ -3536,7 +3536,7 @@
                 "source": ""
             },
             {
-                "tag": "93",
+                "tag": 92,
                 "queries": [
                     "",
                     ""
@@ -3545,7 +3545,7 @@
                 "source": ""
             },
             {
-                "tag": "94",
+                "tag": 93,
                 "queries": [
                     "",
                     ""
@@ -3554,7 +3554,7 @@
                 "source": ""
             },
             {
-                "tag": "95",
+                "tag": 94,
                 "queries": [
                     "",
                     ""
@@ -3563,7 +3563,7 @@
                 "source": ""
             },
             {
-                "tag": "96",
+                "tag": 95,
                 "queries": [
                     "",
                     ""
@@ -3572,7 +3572,7 @@
                 "source": ""
             },
             {
-                "tag": "97",
+                "tag": 96,
                 "queries": [
                     "",
                     ""
@@ -3581,7 +3581,7 @@
                 "source": ""
             },
             {
-                "tag": "98",
+                "tag": 97,
                 "queries": [
                     "",
                     ""
@@ -3590,7 +3590,7 @@
                 "source": ""
             },
             {
-                "tag": "99",
+                "tag": 98,
                 "queries": [
                     "",
                     ""
@@ -3599,7 +3599,7 @@
                 "source": ""
             },
             {
-                "tag": "100",
+                "tag": 99,
                 "queries": [
                     "",
                     ""
@@ -3610,7 +3610,7 @@
         ],
         "hardware": [
             {
-                "tag": "1",
+                "tag": 0,
                 "queries": [
                     "How do I check my PC hardware specifications?",
                     ""
@@ -3621,7 +3621,7 @@
                 "m_source": "https://support.apple.com/en-us/HT203001#:~:text=Choose%20Apple%20menu%20%EF%A3%BF%20%3E%20About,click%20the%20System%20Report%20button."
             },
             {
-                "tag": "2",
+                "tag": 1,
                 "queries": [
                     "How to setup new airpods?",
                     ""
@@ -3632,7 +3632,7 @@
                 "m_source": ""
             },
             {
-                "tag": "3",
+                "tag": 2,
                 "queries": [
                     "How to setup a wireless mouse?",
                     ""
@@ -3643,7 +3643,7 @@
                 "m_source": "https://support.apple.com/en-us/HT201178"
             },
             {
-                "tag": "4",
+                "tag": 3,
                 "queries": [
                     "How to setup a wireless keyboard",
                     ""
@@ -3654,7 +3654,7 @@
                 "m_source": "https://support.apple.com/en-us/HT201178"
             },
             {
-                "tag": "5",
+                "tag": 4,
                 "queries": [
                     "How do I take a screenshot?",
                     "How do I print screen?"
@@ -3665,7 +3665,7 @@
                 "m_source": "https://support.apple.com/en-us/HT201361#:~:text=To%20take%20a%20screenshot%2C%20press,it%20to%20edit%20the%20screenshot."
             },
             {
-                "tag": "6",
+                "tag": 5,
                 "queries": [
                     "How do I change my keyboard language?",
                     ""
@@ -3676,7 +3676,7 @@
                 "m_source": "https://support.apple.com/guide/mac-help/type-language-mac-input-sources-mchlp1406/mac"
             },
             {
-                "tag": "7",
+                "tag": 6,
                 "queries": [
                     "How do I connect my headphones?",
                     "My earphones are not working"
@@ -3687,7 +3687,7 @@
                 "m_source": "https://www.alphr.com/headphones-not-working-on-mac-what-to-do/#:~:text=Check%20the%20headphone%20jack%20for,buttons%20at%20the%20same%20time."
             },
             {
-                "tag": "8",
+                "tag": 7,
                 "queries": [
                     "How do I adjust screen's brightness?",
                     ""
@@ -3698,7 +3698,7 @@
                 "m_source": "https://support.apple.com/guide/mac-help/change-your-displays-brightness-mchlp2704/mac#:~:text=Manually%20adjust%20brightness,click%20Displays%2C%20then%20click%20Display.&text=Drag%20the%20Brightness%20slider%20to%20adjust%20the%20brightness%20of%20your%20display."
             },
             {
-                "tag": "9",
+                "tag": 8,
                 "queries": [
                     "How do I use my webcam?",
                     "How to connect USB camera?"
@@ -3709,7 +3709,7 @@
                 "m_source": "https://itstillworks.com/connect-usb-camera-macbook-pro-8162425.html"
             },
             {
-                "tag": "10",
+                "tag": 9,
                 "queries": [
                     "How do I start Safe Mode?",
                     ""
@@ -3720,7 +3720,7 @@
                 "m_source": "https://support.apple.com/guide/mac-help/start-up-your-mac-in-safe-mode-mh21245/mac"
             },
             {
-                "tag": "11",
+                "tag": 10,
                 "queries": [
                     "How do I refresh my computer?",
                     ""
@@ -3731,7 +3731,7 @@
                 "m_source": ""
             },
             {
-                "tag": "12",
+                "tag": 11,
                 "queries": [
                     "How do I reset my computer?",
                     "How to factory reset?"
@@ -3742,7 +3742,7 @@
                 "m_source": "https://www.gearpatrol.com/tech/a695665/factory-reset-apple-devices/"
             },
             {
-                "tag": "13",
+                "tag": 12,
                 "queries": [
                     "How do I restore my computer?",
                     "How to undo system changes on PC?"
@@ -3753,7 +3753,7 @@
                 "m_source": ""
             },
             {
-                "tag": "14",
+                "tag": 13,
                 "queries": [
                     "Find out how much remaining storage I have?",
                     "How much disk space left I have?"
@@ -3764,7 +3764,7 @@
                 "m_source": "https://support.apple.com/en-us/HT206996#:~:text=Find%20out%20how%20much%20storage,by%20a%20category%20of%20files."
             },
             {
-                "tag": "15",
+                "tag": 14,
                 "queries": [
                     "How to free up storage space?",
                     "How to clear disk?"
@@ -3775,7 +3775,7 @@
                 "m_source": "https://support.apple.com/en-us/HT206996#:~:text=Find%20out%20how%20much%20storage,by%20a%20category%20of%20files."
             },
             {
-                "tag": "16",
+                "tag": 15,
                 "queries": [
                     "The wheel on my mouse isn't working properly",
                     "Mouse wheel not scrolling"
@@ -3786,7 +3786,7 @@
                 "m_source": "https://www.lifewire.com/mouse-scroll-fix-5076803"
             },
             {
-                "tag": "17",
+                "tag": 16,
                 "queries": [
                     "Laptop plugged in but not charging",
                     "Battery won't charge"
@@ -3797,7 +3797,7 @@
                 "m_source": "https://support.apple.com/guide/mac-help/if-your-battery-status-is-not-charging-mh20876/mac"
             },
             {
-                "tag": "18",
+                "tag": 17,
                 "queries": [
                     "My computer is too noisy",
                     "Laptoping making loud noise"
@@ -3808,7 +3808,7 @@
                 "m_source": "https://soundsupport.biz/2016/08/07/how-to-deal-with-loud-fan-noises-on-your-mac/#:~:text=The%20most%20common%20reason%20for,push%20out%20the%20hot%20air.&text=Restarting%20your%20Mac%20could%20reset,so%20give%20that%20a%20try."
             },
             {
-                "tag": "19",
+                "tag": 18,
                 "queries": [
                     "My disc drive won't open",
                     "How to fix a CD reader not ejecting?"
@@ -3819,7 +3819,7 @@
                 "m_source": ""
             },
             {
-                "tag": "20",
+                "tag": 19,
                 "queries": [
                     "How to connect to Internet via wire on LAN port?",
                     "Connect to internet using Ethernet cable"
@@ -3830,7 +3830,7 @@
                 "m_source": "https://support.apple.com/guide/mac-help/connect-mac-internet-ethernet-mh11939/mac"
             },
             {
-                "tag": "21",
+                "tag": 20,
                 "queries": [
                     "How to extend my screen?",
                     "How to use a second monitor?"
@@ -3841,7 +3841,7 @@
                 "m_source": "https://support.apple.com/en-gb/HT202351"
             },
             {
-                "tag": "22",
+                "tag": 21,
                 "queries": [
                     "How to rotate my screen?",
                     "How do I flip my computer screen?"
@@ -3852,7 +3852,7 @@
                 "m_source": "https://www.idownloadblog.com/2019/11/27/how-to-rotate-mac-screen-upside-down/#:~:text=Rotate%20your%20screen%20in%20System%20Preferences&text=1)%20Hold%20down%20your%20Command,%2C%20180%2C%20or%20270%20degrees"
             },
             {
-                "tag": "23",
+                "tag": 22,
                 "queries": [
                     "How to disable touchpad?",
                     "How to enable touchpad?"
@@ -3863,7 +3863,7 @@
                 "m_source": "https://www.businessinsider.com/how-to-disable-trackpad-on-mac#:~:text=Select%20Accessibility%20%E2%80%94%20not%20the%20Trackpad%20option.&text=3.,bottom%20to%20disable%20your%20trackpad."
             },
             {
-                "tag": "24",
+                "tag": 23,
                 "queries": [
                     "How to clean my keyboard?",
                     ""
@@ -3874,7 +3874,7 @@
                 "m_source": "https://newsroom.intel.com/editorials/how-to-clean-gunk-off-your-pc-keyboard/#gs.1qa35j"
             },
             {
-                "tag": "25",
+                "tag": 24,
                 "queries": [
                     "",
                     ""
@@ -3885,7 +3885,7 @@
                 "m_source": ""
             },
             {
-                "tag": "26",
+                "tag": 25,
                 "queries": [
                     "",
                     ""
@@ -3896,7 +3896,7 @@
                 "m_source": ""
             },
             {
-                "tag": "27",
+                "tag": 26,
                 "queries": [
                     "",
                     ""
@@ -3907,7 +3907,7 @@
                 "m_source": ""
             },
             {
-                "tag": "28",
+                "tag": 27,
                 "queries": [
                     "",
                     ""
@@ -3918,7 +3918,7 @@
                 "m_source": ""
             },
             {
-                "tag": "29",
+                "tag": 28,
                 "queries": [
                     "",
                     ""
@@ -3929,7 +3929,7 @@
                 "m_source": ""
             },
             {
-                "tag": "30",
+                "tag": 29,
                 "queries": [
                     "",
                     ""
@@ -3940,7 +3940,7 @@
                 "m_source": ""
             },
             {
-                "tag": "31",
+                "tag": 30,
                 "queries": [
                     "",
                     ""
@@ -3951,7 +3951,7 @@
                 "m_source": ""
             },
             {
-                "tag": "32",
+                "tag": 31,
                 "queries": [
                     "",
                     ""
@@ -3962,7 +3962,7 @@
                 "m_source": ""
             },
             {
-                "tag": "33",
+                "tag": 32,
                 "queries": [
                     "",
                     ""
@@ -3973,7 +3973,7 @@
                 "m_source": ""
             },
             {
-                "tag": "34",
+                "tag": 33,
                 "queries": [
                     "",
                     ""
@@ -3984,7 +3984,7 @@
                 "m_source": ""
             },
             {
-                "tag": "35",
+                "tag": 34,
                 "queries": [
                     "",
                     ""
@@ -3995,7 +3995,7 @@
                 "m_source": ""
             },
             {
-                "tag": "36",
+                "tag": 35,
                 "queries": [
                     "",
                     ""
@@ -4006,7 +4006,7 @@
                 "m_source": ""
             },
             {
-                "tag": "37",
+                "tag": 36,
                 "queries": [
                     "",
                     ""
@@ -4017,7 +4017,7 @@
                 "m_source": ""
             },
             {
-                "tag": "38",
+                "tag": 37,
                 "queries": [
                     "",
                     ""
@@ -4028,7 +4028,7 @@
                 "m_source": ""
             },
             {
-                "tag": "39",
+                "tag": 38,
                 "queries": [
                     "",
                     ""
@@ -4039,7 +4039,7 @@
                 "m_source": ""
             },
             {
-                "tag": "40",
+                "tag": 39,
                 "queries": [
                     "",
                     ""
@@ -4050,7 +4050,7 @@
                 "m_source": ""
             },
             {
-                "tag": "41",
+                "tag": 40,
                 "queries": [
                     "",
                     ""
@@ -4061,7 +4061,7 @@
                 "m_source": ""
             },
             {
-                "tag": "42",
+                "tag": 41,
                 "queries": [
                     "",
                     ""
@@ -4072,7 +4072,7 @@
                 "m_source": ""
             },
             {
-                "tag": "43",
+                "tag": 42,
                 "queries": [
                     "",
                     ""
@@ -4083,7 +4083,7 @@
                 "m_source": ""
             },
             {
-                "tag": "44",
+                "tag": 43,
                 "queries": [
                     "",
                     ""
@@ -4094,7 +4094,7 @@
                 "m_source": ""
             },
             {
-                "tag": "45",
+                "tag": 44,
                 "queries": [
                     "",
                     ""
@@ -4105,7 +4105,7 @@
                 "m_source": ""
             },
             {
-                "tag": "46",
+                "tag": 45,
                 "queries": [
                     "",
                     ""
@@ -4116,7 +4116,7 @@
                 "m_source": ""
             },
             {
-                "tag": "47",
+                "tag": 46,
                 "queries": [
                     "",
                     ""
@@ -4127,7 +4127,7 @@
                 "m_source": ""
             },
             {
-                "tag": "48",
+                "tag": 47,
                 "queries": [
                     "",
                     ""
@@ -4138,7 +4138,7 @@
                 "m_source": ""
             },
             {
-                "tag": "49",
+                "tag": 48,
                 "queries": [
                     "",
                     ""
@@ -4149,7 +4149,7 @@
                 "m_source": ""
             },
             {
-                "tag": "50",
+                "tag": 49,
                 "queries": [
                     "",
                     ""
@@ -4160,7 +4160,7 @@
                 "m_source": ""
             },
             {
-                "tag": "51",
+                "tag": 50,
                 "queries": [
                     "",
                     ""
@@ -4171,7 +4171,7 @@
                 "m_source": ""
             },
             {
-                "tag": "52",
+                "tag": 51,
                 "queries": [
                     "",
                     ""
@@ -4182,7 +4182,7 @@
                 "m_source": ""
             },
             {
-                "tag": "53",
+                "tag": 52,
                 "queries": [
                     "",
                     ""
@@ -4193,7 +4193,7 @@
                 "m_source": ""
             },
             {
-                "tag": "54",
+                "tag": 53,
                 "queries": [
                     "",
                     ""
@@ -4204,7 +4204,7 @@
                 "m_source": ""
             },
             {
-                "tag": "55",
+                "tag": 54,
                 "queries": [
                     "",
                     ""
@@ -4215,7 +4215,7 @@
                 "m_source": ""
             },
             {
-                "tag": "56",
+                "tag": 55,
                 "queries": [
                     "",
                     ""
@@ -4226,7 +4226,7 @@
                 "m_source": ""
             },
             {
-                "tag": "57",
+                "tag": 56,
                 "queries": [
                     "",
                     ""
@@ -4237,7 +4237,7 @@
                 "m_source": ""
             },
             {
-                "tag": "58",
+                "tag": 57,
                 "queries": [
                     "",
                     ""
@@ -4248,7 +4248,7 @@
                 "m_source": ""
             },
             {
-                "tag": "59",
+                "tag": 58,
                 "queries": [
                     "",
                     ""
@@ -4259,7 +4259,7 @@
                 "m_source": ""
             },
             {
-                "tag": "60",
+                "tag": 59,
                 "queries": [
                     "",
                     ""
@@ -4270,7 +4270,7 @@
                 "m_source": ""
             },
             {
-                "tag": "61",
+                "tag": 60,
                 "queries": [
                     "",
                     ""
@@ -4281,7 +4281,7 @@
                 "m_source": ""
             },
             {
-                "tag": "62",
+                "tag": 61,
                 "queries": [
                     "",
                     ""
@@ -4292,7 +4292,7 @@
                 "m_source": ""
             },
             {
-                "tag": "63",
+                "tag": 62,
                 "queries": [
                     "",
                     ""
@@ -4303,7 +4303,7 @@
                 "m_source": ""
             },
             {
-                "tag": "64",
+                "tag": 63,
                 "queries": [
                     "",
                     ""
@@ -4314,7 +4314,7 @@
                 "m_source": ""
             },
             {
-                "tag": "65",
+                "tag": 64,
                 "queries": [
                     "",
                     ""
@@ -4325,7 +4325,7 @@
                 "m_source": ""
             },
             {
-                "tag": "66",
+                "tag": 65,
                 "queries": [
                     "",
                     ""
@@ -4336,7 +4336,7 @@
                 "m_source": ""
             },
             {
-                "tag": "67",
+                "tag": 66,
                 "queries": [
                     "How to safely eject a hard drive",
                     ""
@@ -4347,7 +4347,7 @@
                 "m_source": "https://www.itg.ias.edu/content/safely-ejecting-external-storage-devices#:~:text=When%20the%20Computer%20or%20My,remove%20your%20external%20storage%20device."
             },
             {
-                "tag": "68",
+                "tag": 67,
                 "queries": [
                     "How do I connect a local printer to my computer",
                     ""
@@ -4358,7 +4358,7 @@
                 "m_source": "https://support.apple.com/guide/mac-help/add-a-printer-mh14004/mac#:~:text=To%20add%20your%20printer%20to,Printers%20list%2C%20then%20click%20Add."
             },
             {
-                "tag": "69",
+                "tag": 68,
                 "queries": [
                     "How to do screen mirroring ",
                     ""
@@ -4369,7 +4369,7 @@
                 "m_source": "https://www.businessinsider.com/airplay-mac#:~:text=Click%20the%20AirPlay%20icon%20in%20the%20menu%20bar%20and%20in,devices%20displaying%20the%20same%20screen."
             },
             {
-                "tag": "70",
+                "tag": 69,
                 "queries": [
                     "How to download photos from my phone on to my computer",
                     ""
@@ -4380,7 +4380,7 @@
                 "m_source": "https://www.businessinsider.com/how-to-transfer-photos-from-iphone-to-computer"
             },
             {
-                "tag": "71",
+                "tag": 70,
                 "queries": [
                     "How to set up multiple displays on my computer",
                     ""
@@ -4391,7 +4391,7 @@
                 "m_source": "https://smallbusiness.chron.com/use-two-monitors-mac-54351.html"
             },
             {
-                "tag": "72",
+                "tag": 71,
                 "queries": [
                     "How to set up windows 10",
                     ""
@@ -4402,7 +4402,7 @@
                 "m_source": ""
             },
             {
-                "tag": "73",
+                "tag": 72,
                 "queries": [
                     "How to set up a Macbook",
                     ""
@@ -4413,7 +4413,7 @@
                 "m_source": "https://www.macworld.co.uk/how-to/set-up-3589654/"
             },
             {
-                "tag": "74",
+                "tag": 73,
                 "queries": [
                     "How do I check how much memory my computer has",
                     ""
@@ -4424,7 +4424,7 @@
                 "m_source": "https://www.businessinsider.com/how-to-check-memory-on-mac"
             },
             {
-                "tag": "75",
+                "tag": 74,
                 "queries": [
                     "How do I change mouse speed/DPI",
                     ""
@@ -4435,7 +4435,7 @@
                 "m_source": "https://www.businessinsider.com/how-to-change-mouse-dpi#:~:text=On%20the%20Mouse%20page%2C%20click,%22%20under%20%22Related%20settings.%22&text=In%20the%20%22Mouse%20Properties%22%20pop,pointer%20speed%22%20to%20adjust%20DPI."
             },
             {
-                "tag": "76",
+                "tag": 75,
                 "queries": [
                     "How do I clean my keybaord",
                     ""
@@ -4446,7 +4446,7 @@
                 "m_source": "https://www.lifewire.com/clean-your-mac-keyboard-4586910#:~:text=Turn%20the%20keyboard%20or%20laptop,that%20accumulated%20on%20the%20keys."
             },
             {
-                "tag": "77",
+                "tag": 76,
                 "queries": [
                     "How do I clean my monitor",
                     ""
@@ -4457,7 +4457,7 @@
                 "m_source": "https://support.apple.com/guide/mac-help/clean-your-computer-screen-mchlp2657/mac"
             },
             {
-                "tag": "78",
+                "tag": 77,
                 "queries": [
                     "How do I free up space on my hard drive",
                     ""
@@ -4468,7 +4468,7 @@
                 "m_source": "https://www.macworld.co.uk/how-to/free-space-mac-3504803/"
             },
             {
-                "tag": "79",
+                "tag": 78,
                 "queries": [
                     "How do I update my Bios",
                     ""
@@ -4479,7 +4479,7 @@
                 "m_source": ""
             },
             {
-                "tag": "80",
+                "tag": 79,
                 "queries": [
                     "Should I leave my computer on or turn it off",
                     ""
@@ -4490,7 +4490,7 @@
                 "m_source": "https://www.digitaltrends.com/computing/should-you-turn-off-your-computer-at-night/#:~:text=%E2%80%9CIf%20you%20use%20your%20computer,%2C%20then%20turn%20it%20off.%E2%80%9D&text=Computers%20also%20heat%20up%20when,have%20a%20limited%20life%20cycle."
             },
             {
-                "tag": "81",
+                "tag": 80,
                 "queries": [
                     "How do I reformat a hard disk",
                     ""
@@ -4501,7 +4501,7 @@
                 "m_source": ""
             },
             {
-                "tag": "82",
+                "tag": 81,
                 "queries": [
                     "How do I add more ram to my computer",
                     ""
@@ -4512,7 +4512,7 @@
                 "m_source": "https://support.apple.com/guide/activity-monitor/check-if-your-mac-needs-more-ram-actmntr34865/mac"
             },
             {
-                "tag": "83",
+                "tag": 82,
                 "queries": [
                     "How do I know if my battery is damaged",
                     ""
@@ -4523,7 +4523,7 @@
                 "m_source": "https://www.ifixit.com/News/9856/how-to-tell-if-your-mac-laptop-needs-a-new-battery#:~:text=Battery%20Service%20Warning&text=Click%20on%20the%20battery%20level,to%20look%20into%20a%20replacement."
             },
             {
-                "tag": "84",
+                "tag": 83,
                 "queries": [
                     "My speakers are not working, what is wrong",
                     ""
@@ -4534,7 +4534,7 @@
                 "m_source": "https://support.apple.com/en-us/HT203186"
             },
             {
-                "tag": "85",
+                "tag": 84,
                 "queries": [
                     "How do I connect bluetooth speakers to my computer",
                     ""
@@ -4545,7 +4545,7 @@
                 "m_source": "https://support.apple.com/guide/mac-help/connect-a-bluetooth-device-blth1004/mac"
             },
             {
-                "tag": "86",
+                "tag": 85,
                 "queries": [
                     "How do I download the latest update",
                     ""
@@ -4556,7 +4556,7 @@
                 "m_source": "https://support.apple.com/en-us/HT201541#:~:text=Choose%20System%20Preferences%20from%20the,select%20specific%20updates%20to%20install."
             },
             {
-                "tag": "87",
+                "tag": 86,
                 "queries": [
                     "How do I run a diagnostics test on my computer",
                     ""
@@ -4567,7 +4567,7 @@
                 "m_source": "https://macpaw.com/how-to/perform-apple-diagnostics"
             },
             {
-                "tag": "88",
+                "tag": 87,
                 "queries": [
                     "My monitor won't turn on, what do I do",
                     ""
@@ -4578,7 +4578,7 @@
                 "m_source": "https://support.apple.com/en-us/HT210905"
             },
             {
-                "tag": "89",
+                "tag": 88,
                 "queries": [
                     "My screen is frozen",
                     ""
@@ -4589,7 +4589,7 @@
                 "m_source": "https://www.asurion.com/connect/tech-tips/what-to-do-if-your-computer-has-frozen/"
             },
             {
-                "tag": "90",
+                "tag": 89,
                 "queries": [
                     "My computer is slow",
                     ""
@@ -4600,7 +4600,7 @@
                 "m_source": "https://www.cnet.com/how-to/fix-your-slow-mac-once-and-for-all/"
             },
             {
-                "tag": "91",
+                "tag": 90,
                 "queries": [
                     "My computer is overheating",
                     ""
@@ -4611,7 +4611,7 @@
                 "m_source": "https://www.businessinsider.com/why-is-my-macbook-hot"
             },
             {
-                "tag": "92",
+                "tag": 91,
                 "queries": [
                     "My computer keeps dropping internet connection",
                     ""
@@ -4622,7 +4622,7 @@
                 "m_source": ""
             },
             {
-                "tag": "93",
+                "tag": 92,
                 "queries": [
                     "How do I troubleshoot my computer",
                     ""
@@ -4633,7 +4633,7 @@
                 "m_source": ""
             },
             {
-                "tag": "94",
+                "tag": 93,
                 "queries": [
                     "My mouse is not smooth it is jumpy",
                     ""
@@ -4644,7 +4644,7 @@
                 "m_source": ""
             },
             {
-                "tag": "95",
+                "tag": 94,
                 "queries": [
                     "How do I sync my phone to my computer",
                     ""
@@ -4655,7 +4655,7 @@
                 "m_source": ""
             },
             {
-                "tag": "96",
+                "tag": 95,
                 "queries": [
                     "My computer won't turn on",
                     ""
@@ -4666,7 +4666,7 @@
                 "m_source": ""
             },
             {
-                "tag": "97",
+                "tag": 96,
                 "queries": [
                     "How do I connect a bluetooth printer",
                     ""
@@ -4677,7 +4677,7 @@
                 "m_source": ""
             },
             {
-                "tag": "98",
+                "tag": 97,
                 "queries": [
                     "My computer's fan isn't working",
                     ""
@@ -4688,7 +4688,7 @@
                 "m_source": ""
             },
             {
-                "tag": "99",
+                "tag": 98,
                 "queries": [
                     "My printer isn't printing",
                     ""
@@ -4699,7 +4699,7 @@
                 "m_source": ""
             },
             {
-                "tag": "100",
+                "tag": 99,
                 "queries": [
                     "Why is my computer automatically restarting",
                     ""
