@@ -17,15 +17,7 @@ def determine(query, model, cv):
     Return the index of the prediction if it reaches the threshold, else return
     None.
     """
-    predictions = model.predict(cv.transform([query]).toarray())
-    predicted_index = np.argmax(predictions)
-    certainty = predictions.max(1)[0]
-    print(f'Report 1: {predicted_index} at {certainty*100}% of certainty.')
-    
-    if certainty < 0.80:
-        return None
-    else:
-        return predicted_index
+    return None
 
 
 def main():
@@ -50,10 +42,8 @@ def main():
     
     # This is the main while loop where all the user-bot interaction takes place
     while True:
-        # Take an input
+        # Take an input, then use part2's function to clean the query
         query = input('You: ')
-        # Use part2's function to clean the query
-        clean_query = None
         
         # Check for quitting option
         if query.lower() == 'quit':
@@ -61,7 +51,7 @@ def main():
         
         # Determine the index of the category (pass the clean query and the 
         # categories-general components)
-        index = determine(clean_query, model_cat, cv_cat)
+        index = determine(query, model_cat, cv_cat)
         
         # If index is None (i.e. it didn't reach certainty threshold) print
         # a custom error message and skip
@@ -70,7 +60,7 @@ def main():
         
         # Determine the tag of the answer (pass the clean query and the 
         # category-specific components)
-        tag = determine(clean_query, holder[index][0], holder[index][1])
+        tag = determine(query, holder[index][0], holder[index][1])
         
         # If tag is None (i.e. it didn't reach certainty threshold) print
         # a custom error message and skip
